@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,2
+http://183.249.78.44:10800/newlive/live/hls/2/live.m3u8
+#EXTINF:-1,7
+http://183.249.78.44:10800/newlive/live/hls/7/live.m3u8
+#EXTINF:-1,10
+http://183.249.78.44:10800/newlive/live/hls/10/live.m3u8
+#EXTINF:-1,14
+http://183.249.78.44:10800/newlive/live/hls/14/live.m3u8
+#EXTINF:-1,31
+http://183.249.78.44:10800/newlive/live/hls/31/live.m3u8
+#EXTINF:-1,36
+http://183.249.78.44:10800/newlive/live/hls/36/live.m3u8
