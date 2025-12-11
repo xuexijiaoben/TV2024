@@ -1,0 +1,1007 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV1
+http://111.227.194.26:4022/rtp/239.254.200.45:8008$河北电信31
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://116.235.57.22:4022/rtp/239.45.1.68:5140$上海电信21
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://111.227.194.26:4022/rtp/239.254.200.190:6307$河北电信31
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" ,CCTV4欧洲
+http://111.227.194.26:4022/rtp/239.254.201.205:4220$河北电信31
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://111.227.194.26:4022/rtp/239.254.200.46:8004$河北电信31
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV7
+http://223.198.240.15:4000/rtp/239.253.64.54:5140$海南电信11
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV10
+http://116.235.57.22:4022/rtp/239.45.3.8:5140$上海电信21
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://223.198.240.15:4000/rtp/239.253.64.70:5140$海南电信11
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV11
+http://111.227.194.26:4022/rtp/239.254.201.123:8120$河北电信31
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV12
+http://116.235.57.22:4022/rtp/239.45.3.10:5140$上海电信21
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV3
+http://m.061899.xyz/mg/cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV4
+http://m.061899.xyz/mg/cctv4
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV6
+http://m.061899.xyz/mg/cctv6
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV13
+http://m.061899.xyz/mg/cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV14
+http://m.061899.xyz/mg/cctv14
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://8.138.7.223/tv/zjws.m3u8
+#EXTINF:-1,海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1,古装剧场
+http://jiugong.wulinsy.cn:39901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视4k
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视4k
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1,赤峰新闻综合
+http://live.cfrmw.cn/dianshi0001/sd/live.m3u8
+#EXTINF:-1,赤峰经济服务
+http://live.cfrmw.cn/dianshi0002/sd/live.m3u8
+#EXTINF:-1,赤峰影视娱乐
+http://live.cfrmw.cn/dianshi0003/sd/live.m3u8
+#EXTINF:-1,广州南国都市超高清
+https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=07b55afb2e266cbaea346277f4bdd99d&txTime=19941f35471
+#EXTINF:-1,亳州农村
+http://120.209.208.163:9003/hls/3/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV-1
+http://139.214.176.20:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV-1
+http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV-1
+http://111.9.163.109:55555/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" ,CCTV-1
+http://123.164.227.26:52389/tsfile/live/0001_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV-2
+http://139.214.176.20:9901/tsfile/live/1018_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV-2
+http://111.9.163.109:55555/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV-2
+http://123.164.227.26:52389/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" ,CCTV-2
+http://223.75.149.129:9906/tsfile/live/0002_1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" ,CCTV-3
+http://223.75.149.129:9906/tsfile/live/0003_1.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV-4
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" ,CCTV-4
+http://111.9.163.109:55555/tsfile/live/0004_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV-5
+http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV-5
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://39.165.39.49:19901/tsfile/live/1089_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV5+
+http://123.164.227.26:52389/tsfile/live/0016_1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" ,CCTV-5
+http://223.75.149.129:9906/tsfile/live/0005_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV-6
+http://2g545s5578.qicp.vip:59901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" ,CCTV-6
+http://223.75.149.129:9906/tsfile/live/0006_1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV-7
+http://2g545s5578.qicp.vip:59901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV-7
+http://123.164.227.26:52389/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV-7
+http://8.134.184.162:8314/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" ,CCTV-7
+http://223.75.149.129:9906/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://hczn.x3322.net:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://139.214.176.20:9901/tsfile/live/1048_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://39.152.103.17:8089/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://111.26.72.89:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://111.23.208.105:9908/tsfile/live/0008_2.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://123.164.227.26:52389/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" ,CCTV-8
+http://223.75.149.129:9906/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV-9
+http://19865na909.51mypc.cn:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV-9
+http://111.26.72.89:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" ,CCTV-9
+http://223.75.149.129:9906/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" ,CCTV-10
+http://223.75.149.129:9906/tsfile/live/0010_1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV-11
+http://139.214.176.20:9901/tsfile/live/1060_1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV-11
+http://123.164.227.26:52389/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" ,CCTV-11
+http://223.75.149.129:9906/tsfile/live/0011_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV-12
+http://19865na909.51mypc.cn:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV-12
+http://171.120.6.207:9999/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV-12
+http://123.164.227.26:52389/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" ,CCTV-12
+http://223.75.149.129:9906/tsfile/live/0012_1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ,CCTV-13
+http://223.75.149.129:9906/tsfile/live/0013_1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV-14
+http://139.214.176.20:9901/tsfile/live/1064_1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV-14
+http://111.26.72.89:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV-14
+http://123.164.227.26:52389/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" ,CCTV-14
+http://223.75.149.129:9906/tsfile/live/0014_1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV-15
+http://123.164.227.26:52389/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" ,CCTV-15
+http://223.75.149.129:9906/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" ,CCTV-16
+http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" ,CCTV-17
+http://123.164.227.26:52389/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://111.26.72.89:9901/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://123.164.227.26:52389/tsfile/live/0137_1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://139.214.176.20:9901/tsfile/live/1076_1.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" ,东南卫视
+http://39.165.39.49:19901/tsfile/live/1149_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://111.26.72.89:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://123.164.227.26:52389/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://19865na909.51mypc.cn:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://223.75.149.129:9906/tsfile/live/0107_1.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" ,东方卫视
+http://39.165.39.49:19901/tsfile/live/1128_1.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" ,云南卫视
+http://123.164.227.26:52389/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" ,云南卫视
+http://223.75.149.129:9906/tsfile/live/0119_1.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" ,云南卫视
+http://39.152.103.17:8089/tsfile/live/1083_1.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" ,北京卫视
+http://123.164.227.26:52389/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://123.164.227.26:52389/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://139.214.176.20:9901/tsfile/live/1068_1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://223.75.149.129:9906/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" ,吉林卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0116_1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://171.120.6.207:9999/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://223.75.149.129:9906/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0123_1.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" ,四川卫视
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://123.164.227.26:52389/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" ,天津卫视
+http://223.75.149.129:9906/tsfile/live/0135_1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://111.26.72.89:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://123.164.227.26:52389/tsfile/live/0130_1.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" ,安徽卫视
+http://39.165.39.49:19901/tsfile/live/1134_1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://111.26.72.89:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://123.164.227.26:52389/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://223.75.149.129:9906/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" ,山东卫视
+http://39.165.39.49:19901/tsfile/live/1133_1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://19865na909.51mypc.cn:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://223.75.149.129:9906/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" ,广东卫视
+http://39.165.39.49:19901/tsfile/live/1131_1.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://223.75.149.129:9906/tsfile/live/0113_1.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" ,广西卫视
+http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://111.9.163.109:55555/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://123.164.227.26:52389/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://139.214.176.20:9901/tsfile/live/1074_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://171.120.6.207:9999/tsfile/live/0127_1.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" ,江苏卫视
+http://39.165.39.49:19901/tsfile/live/1129_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://111.26.72.89:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://123.164.227.26:52389/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://223.75.149.129:9906/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" ,江西卫视
+http://zhuoyue.sihanlin.top:9901/tsfile/live/0138_1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://123.164.227.26:52389/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://223.75.149.129:9906/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" ,河北卫视
+http://61.182.224.166:1001/tsfile/live/0117_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://116.76.254.170:44330/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://123.164.227.26:52389/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://171.120.6.207:9999/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://223.75.149.129:9906/tsfile/live/0139_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://39.152.103.17:8089/tsfile/live/1080_1.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" ,河南卫视
+http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://123.164.227.26:52389/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://223.75.149.129:9906/tsfile/live/0124_1.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" ,浙江卫视
+http://39.165.39.49:19901/tsfile/live/1127_1.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" ,海南卫视
+http://219.146.65.78:59902/tsfile/live/faacts/0018_1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" ,深圳卫视
+http://123.164.227.26:52389/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" ,深圳卫视
+http://223.75.149.129:9906/tsfile/live/0126_1.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" ,深圳卫视
+http://39.165.39.49:19901/tsfile/live/1141_1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://123.164.227.26:52389/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://223.75.149.129:9906/tsfile/live/0132_1.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" ,湖北卫视
+http://39.165.39.49:19901/tsfile/live/1143_1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://111.23.208.105:9908/tsfile/live/1059_1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://223.75.149.129:9906/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" ,湖南卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" ,贵州卫视
+http://123.164.227.26:52389/tsfile/live/0120_1.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" ,贵州卫视
+http://139.214.176.88:9901/tsfile/live/1091_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://111.26.72.89:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://123.164.227.26:52389/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://139.214.176.20:9901/tsfile/live/1069_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://223.75.149.129:9906/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://2g545s5578.qicp.vip:59901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" ,辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" ,重庆卫视
+http://123.164.227.26:52389/tsfile/live/0142_1.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" ,陕西卫视
+http://116.76.254.170:44330/tsfile/live/0136_1.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" ,青海卫视
+http://139.214.176.20:9901/tsfile/live/1096_1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" ,黑龙江卫视
+http://123.164.227.26:52389/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" ,黑龙江卫视
+http://171.120.6.207:9999/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" ,黑龙江卫视
+http://223.75.149.129:9906/tsfile/live/0143_1.m3u8
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" ,CCTV-电视指南
+http://39.152.103.17:8089/tsfile/live/1058_1.m3u8
+#EXTINF:-1,CGTN记录频道
+http://39.152.103.17:8089/tsfile/live/1104_1.m3u8
+#EXTINF:-1,CHC动作电影
+http://39.152.103.17:8089/tsfile/live/1045_1.m3u8
+#EXTINF:-1,CHC家庭影院
+http://39.152.103.17:8089/tsfile/live/1095_1.m3u8
+#EXTINF:-1,CHC高清电影
+http://39.152.103.17:8089/tsfile/live/1098_1.m3u8
+#EXTINF:-1,中国教育移动
+http://39.165.39.49:19901/tsfile/live/1090_1.m3u8
+#EXTINF:-1,中央一套移动
+http://39.165.39.49:19901/tsfile/live/1001_1.m3u8
+#EXTINF:-1,中央七套移动
+http://39.165.39.49:19901/tsfile/live/1007_1.m3u8
+#EXTINF:-1,中央三套移动
+http://39.165.39.49:19901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,中央九套移动
+http://39.165.39.49:19901/tsfile/live/1009_1.m3u8
+#EXTINF:-1,中央二套移动
+http://39.165.39.49:19901/tsfile/live/1002_1.m3u8
+#EXTINF:-1,中央五套移动
+http://39.165.39.49:19901/tsfile/live/1005_1.m3u8
+#EXTINF:-1,中央六套移动
+http://39.165.39.49:19901/tsfile/live/1006_1.m3u8
+#EXTINF:-1,中央十一套移动
+http://39.165.39.49:19901/tsfile/live/1011_1.m3u8
+#EXTINF:-1,中央十七套移动
+http://39.165.39.49:19901/tsfile/live/1088_1.m3u8
+#EXTINF:-1,中央十二套移动
+http://39.165.39.49:19901/tsfile/live/1000_1.m3u8
+#EXTINF:-1,中央十五套移动
+http://39.165.39.49:19901/tsfile/live/1086_1.m3u8
+#EXTINF:-1,中央十四套移动
+http://39.165.39.49:19901/tsfile/live/1085_1.m3u8
+#EXTINF:-1,中央十套移动
+http://39.165.39.49:19901/tsfile/live/1010_1.m3u8
+#EXTINF:-1,中央四套移动
+http://39.165.39.49:19901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" ,全纪实
+http://39.165.39.49:19901/tsfile/live/1126_1.m3u8
+#EXTINF:-1,公共频道移动
+http://39.165.39.49:19901/tsfile/live/1114_1.m3u8
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" ,卡酷动画
+http://139.214.176.20:9901/tsfile/live/1043_1.m3u8
+#EXTINF:-1,卡酷少儿
+http://39.152.103.17:8089/tsfile/live/1020_1.m3u8
+#EXTINF:-1,卫生健康
+http://139.214.176.20:9901/tsfile/live/1036_1.m3u8
+#EXTINF:-1,吉林生活
+http://139.214.176.20:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1,吉林都市
+http://139.214.176.20:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" ,嘉佳卡通
+http://8.134.184.162:38519/tsfile/live/1010_1.m3u8
+#EXTINF:-1,地理世界
+http://139.214.176.20:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1,快乐垂钓
+http://39.152.103.17:8089/tsfile/live/1110_1.m3u8
+#EXTINF:-1,快乐垂钓
+http://39.165.39.49:19901/tsfile/live/1115_1.m3u8
+#EXTINF:-1,文体旅游
+http://39.165.39.49:19901/tsfile/live/1094_1.m3u8
+#EXTINF:-1,文物宝库移动
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" ,新动漫
+http://39.152.103.17:8089/tsfile/live/1021_1.m3u8
+#EXTINF:-1,新闻频道移动
+http://39.165.39.49:19901/tsfile/live/1112_1.m3u8
+#EXTINF:-1,武术世界
+http://111.26.72.89:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1,武术世界移动
+http://39.165.39.49:19901/tsfile/live/1121_1.m3u8
+#EXTINF:-1,民生频道移动
+http://39.165.39.49:19901/tsfile/live/1109_1.m3u8
+#EXTINF:-1,测试频道1
+http://111.23.208.105:9908/tsfile/live/1000_1.m3u8
+#EXTINF:-1,测试频道2
+http://111.23.208.105:9908/tsfile/live/1002_1.m3u8
+#EXTINF:-1,湖北教育
+http://120.202.94.181:9446/tsfile/live/0107_1.m3u8
+#EXTINF:-1,湖北经视
+http://223.75.149.129:9906/tsfile/live/1000_1.m3u8
+#EXTINF:-1,湖北综合
+http://223.75.149.129:9906/tsfile/live/1001_1.m3u8
+#EXTINF:-1,电视剧频移动
+http://39.165.39.49:19901/tsfile/live/1111_1.m3u8
+#EXTINF:-1,电视指南
+http://139.214.176.20:9901/tsfile/live/1027_1.m3u8
+#EXTINF:-1,移动戏曲移动
+http://39.165.39.49:19901/tsfile/live/1118_1.m3u8
+#EXTINF:-1,移动电视
+http://39.152.103.17:8089/tsfile/live/1033_1.m3u8
+#EXTINF:-1,调解剧场移动
+http://39.165.39.49:19901/tsfile/live/1124_1.m3u8
+#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" ,辽宁体育
+http://39.152.103.17:8089/tsfile/live/1027_1.m3u8
+#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" ,辽宁影视剧
+http://39.152.103.17:8089/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" ,辽宁生活
+http://39.152.103.17:8089/tsfile/live/1028_1.m3u8
+#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" ,辽宁都市
+http://39.152.103.17:8089/tsfile/live/1025_1.m3u8
+#EXTINF:-1,都市频道移动
+http://39.165.39.49:19901/tsfile/live/1106_1.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" ,金鹰卡通
+http://223.75.149.129:9906/tsfile/live/1002_1.m3u8
+#EXTINF:-1,风云足球
+http://139.214.176.20:9901/tsfile/live/1033_1.m3u8
+#EXTINF:-1,风尚河南移动
+http://39.165.39.49:19901/tsfile/live/1125_1.m3u8
+#EXTINF:-1,高尔夫网球
+http://39.152.103.17:8089/tsfile/live/1109_1.m3u8
+#EXTINF:-1,黑龙江新闻法治
+http://123.164.227.26:52389/tsfile/live/1009_1.m3u8
+#EXTINF:-1,1A7
+http://btblxbw.x3322.net:8082/hls/7/index.m3u8
+#EXTINF:-1,1A23
+http://btblxbw.x3322.net:8082/hls/23/index.m3u8
+#EXTINF:-1,1A25
+http://btblxbw.x3322.net:8082/hls/25/index.m3u8
+#EXTINF:-1,1A29
+http://btblxbw.x3322.net:8082/hls/29/index.m3u8
+#EXTINF:-1,1A31
+http://btblxbw.x3322.net:8082/hls/31/index.m3u8
+#EXTINF:-1,1A34
+http://btblxbw.x3322.net:8082/hls/34/index.m3u8
+#EXTINF:-1,1A39
+http://btblxbw.x3322.net:8082/hls/39/index.m3u8
+#EXTINF:-1,1A50
+http://btblxbw.x3322.net:8082/hls/50/index.m3u8
+#EXTINF:-1,2A1
+http://125.40.199.223:8092/hls/1/index.m3u8
+#EXTINF:-1,2A8
+http://125.40.199.223:8092/hls/8/index.m3u8
+#EXTINF:-1,2A9
+http://125.40.199.223:8092/hls/9/index.m3u8
+#EXTINF:-1,2A13
+http://125.40.199.223:8092/hls/13/index.m3u8
+#EXTINF:-1,2A22
+http://125.40.199.223:8092/hls/22/index.m3u8
+#EXTINF:-1,2A26
+http://125.40.199.223:8092/hls/26/index.m3u8
+#EXTINF:-1,2A30
+http://125.40.199.223:8092/hls/30/index.m3u8
+#EXTINF:-1,2A34
+http://125.40.199.223:8092/hls/34/index.m3u8
+#EXTINF:-1,2A35
+http://125.40.199.223:8092/hls/35/index.m3u8
+#EXTINF:-1,2A44
+http://125.40.199.223:8092/hls/44/index.m3u8
+#EXTINF:-1,2A46
+http://125.40.199.223:8092/hls/46/index.m3u8
+#EXTINF:-1,2A51
+http://125.40.199.223:8092/hls/51/index.m3u8
+#EXTINF:-1,2A57
+http://125.40.199.223:8092/hls/57/index.m3u8
+#EXTINF:-1,2A58
+http://125.40.199.223:8092/hls/58/index.m3u8
+#EXTINF:-1,2A61
+http://125.40.199.223:8092/hls/61/index.m3u8
+#EXTINF:-1,2A64
+http://125.40.199.223:8092/hls/64/index.m3u8
+#EXTINF:-1,5A5
+http://219.145.197.211:7878/hls/5/index.m3u8
+#EXTINF:-1,6A3
+http://183.129.255.66:8480/hls/3/index.m3u8
+#EXTINF:-1,6A4
+http://183.129.255.66:8480/hls/4/index.m3u8
+#EXTINF:-1,6A15
+http://183.129.255.66:8480/hls/15/index.m3u8
+#EXTINF:-1,6A22
+http://183.129.255.66:8480/hls/22/index.m3u8
+#EXTINF:-1,6A24
+http://183.129.255.66:8480/hls/24/index.m3u8
+#EXTINF:-1,8A4
+http://itv.1080g.cn:9002/hls/4/index.m3u8
+#EXTINF:-1,8A5
+http://itv.1080g.cn:9002/hls/5/index.m3u8
+#EXTINF:-1,8A6
+http://itv.1080g.cn:9002/hls/6/index.m3u8
+#EXTINF:-1,8A7
+http://itv.1080g.cn:9002/hls/7/index.m3u8
+#EXTINF:-1,8A8
+http://itv.1080g.cn:9002/hls/8/index.m3u8
+#EXTINF:-1,8A9
+http://itv.1080g.cn:9002/hls/9/index.m3u8
+#EXTINF:-1,8A10
+http://itv.1080g.cn:9002/hls/10/index.m3u8
+#EXTINF:-1,8A12
+http://itv.1080g.cn:9002/hls/12/index.m3u8
+#EXTINF:-1,8A13
+http://itv.1080g.cn:9002/hls/13/index.m3u8
+#EXTINF:-1,8A18
+http://itv.1080g.cn:9002/hls/18/index.m3u8
+#EXTINF:-1,8A19
+http://itv.1080g.cn:9002/hls/19/index.m3u8
+#EXTINF:-1,8A22
+http://itv.1080g.cn:9002/hls/22/index.m3u8
+#EXTINF:-1,8A23
+http://itv.1080g.cn:9002/hls/23/index.m3u8
+#EXTINF:-1,8A25
+http://itv.1080g.cn:9002/hls/25/index.m3u8
+#EXTINF:-1,8A27
+http://itv.1080g.cn:9002/hls/27/index.m3u8
+#EXTINF:-1,8A30
+http://itv.1080g.cn:9002/hls/30/index.m3u8
+#EXTINF:-1,8A32
+http://itv.1080g.cn:9002/hls/32/index.m3u8
+#EXTINF:-1,8A33
+http://itv.1080g.cn:9002/hls/33/index.m3u8
+#EXTINF:-1,8A34
+http://itv.1080g.cn:9002/hls/34/index.m3u8
+#EXTINF:-1,8A37
+http://itv.1080g.cn:9002/hls/37/index.m3u8
+#EXTINF:-1,8A38
+http://itv.1080g.cn:9002/hls/38/index.m3u8
+#EXTINF:-1,8A39
+http://itv.1080g.cn:9002/hls/39/index.m3u8
+#EXTINF:-1,8A40
+http://itv.1080g.cn:9002/hls/40/index.m3u8
+#EXTINF:-1,8A41
+http://itv.1080g.cn:9002/hls/41/index.m3u8
+#EXTINF:-1,8A42
+http://itv.1080g.cn:9002/hls/42/index.m3u8
+#EXTINF:-1,8A43
+http://itv.1080g.cn:9002/hls/43/index.m3u8
+#EXTINF:-1,8A50
+http://itv.1080g.cn:9002/hls/50/index.m3u8
+#EXTINF:-1,8A52
+http://itv.1080g.cn:9002/hls/52/index.m3u8
+#EXTINF:-1,8A54
+http://itv.1080g.cn:9002/hls/54/index.m3u8
+#EXTINF:-1,8A56
+http://itv.1080g.cn:9002/hls/56/index.m3u8
+#EXTINF:-1,8A57
+http://itv.1080g.cn:9002/hls/57/index.m3u8
+#EXTINF:-1,8A58
+http://itv.1080g.cn:9002/hls/58/index.m3u8
+#EXTINF:-1,8A64
+http://itv.1080g.cn:9002/hls/64/index.m3u8
+#EXTINF:-1,8A65
+http://itv.1080g.cn:9002/hls/65/index.m3u8
+#EXTINF:-1,8A66
+http://itv.1080g.cn:9002/hls/66/index.m3u8
+#EXTINF:-1,9A1
+http://itms3.sdlk.vip:3333/hls/1/index.m3u8
+#EXTINF:-1,9A3
+http://itms3.sdlk.vip:3333/hls/3/index.m3u8
+#EXTINF:-1,9A5
+http://itms3.sdlk.vip:3333/hls/5/index.m3u8
+#EXTINF:-1,9A12
+http://itms3.sdlk.vip:3333/hls/12/index.m3u8
+#EXTINF:-1,9A14
+http://itms3.sdlk.vip:3333/hls/14/index.m3u8
+#EXTINF:-1,9A15
+http://itms3.sdlk.vip:3333/hls/15/index.m3u8
+#EXTINF:-1,9A16
+http://itms3.sdlk.vip:3333/hls/16/index.m3u8
+#EXTINF:-1,9A17
+http://itms3.sdlk.vip:3333/hls/17/index.m3u8
+#EXTINF:-1,9A26
+http://itms3.sdlk.vip:3333/hls/26/index.m3u8
+#EXTINF:-1,9A31
+http://itms3.sdlk.vip:3333/hls/31/index.m3u8
+#EXTINF:-1,9A33
+http://itms3.sdlk.vip:3333/hls/33/index.m3u8
+#EXTINF:-1,9A34
+http://itms3.sdlk.vip:3333/hls/34/index.m3u8
+#EXTINF:-1,9A36
+http://itms3.sdlk.vip:3333/hls/36/index.m3u8
+#EXTINF:-1,9A38
+http://itms3.sdlk.vip:3333/hls/38/index.m3u8
+#EXTINF:-1,9A43
+http://itms3.sdlk.vip:3333/hls/43/index.m3u8
+#EXTINF:-1,9A53
+http://itms3.sdlk.vip:3333/hls/53/index.m3u8
+#EXTINF:-1,9A58
+http://itms3.sdlk.vip:3333/hls/58/index.m3u8
+#EXTINF:-1,9A59
+http://itms3.sdlk.vip:3333/hls/59/index.m3u8
+#EXTINF:-1,9A60
+http://itms3.sdlk.vip:3333/hls/60/index.m3u8
+#EXTINF:-1,9A61
+http://itms3.sdlk.vip:3333/hls/61/index.m3u8
+#EXTINF:-1,9A62
+http://itms3.sdlk.vip:3333/hls/62/index.m3u8
+#EXTINF:-1,9A63
+http://itms3.sdlk.vip:3333/hls/63/index.m3u8
+#EXTINF:-1,9A68
+http://itms3.sdlk.vip:3333/hls/68/index.m3u8
+#EXTINF:-1,10A29
+http://zmgd.zyrnet.com:8888/hls/29/index.m3u8
+#EXTINF:-1,10A107
+http://zmgd.zyrnet.com:8888/hls/107/index.m3u8
+#EXTINF:-1,10A111
+http://zmgd.zyrnet.com:8888/hls/111/index.m3u8
+#EXTINF:-1,10A113
+http://zmgd.zyrnet.com:8888/hls/113/index.m3u8
+#EXTINF:-1,10A114
+http://zmgd.zyrnet.com:8888/hls/114/index.m3u8
+#EXTINF:-1,10A116
+http://zmgd.zyrnet.com:8888/hls/116/index.m3u8
+#EXTINF:-1,10A117
+http://zmgd.zyrnet.com:8888/hls/117/index.m3u8
+#EXTINF:-1,10A118
+http://zmgd.zyrnet.com:8888/hls/118/index.m3u8
+#EXTINF:-1,10A125
+http://zmgd.zyrnet.com:8888/hls/125/index.m3u8
+#EXTINF:-1,11A1
+http://39.164.138.145:9003/hls/1/index.m3u8
+#EXTINF:-1,11A2
+http://39.164.138.145:9003/hls/2/index.m3u8
+#EXTINF:-1,11A3
+http://39.164.138.145:9003/hls/3/index.m3u8
+#EXTINF:-1,11A4
+http://39.164.138.145:9003/hls/4/index.m3u8
+#EXTINF:-1,11A5
+http://39.164.138.145:9003/hls/5/index.m3u8
+#EXTINF:-1,11A6
+http://39.164.138.145:9003/hls/6/index.m3u8
+#EXTINF:-1,11A7
+http://39.164.138.145:9003/hls/7/index.m3u8
+#EXTINF:-1,11A8
+http://39.164.138.145:9003/hls/8/index.m3u8
+#EXTINF:-1,11A9
+http://39.164.138.145:9003/hls/9/index.m3u8
+#EXTINF:-1,11A10
+http://39.164.138.145:9003/hls/10/index.m3u8
+#EXTINF:-1,11A11
+http://39.164.138.145:9003/hls/11/index.m3u8
+#EXTINF:-1,11A12
+http://39.164.138.145:9003/hls/12/index.m3u8
+#EXTINF:-1,11A13
+http://39.164.138.145:9003/hls/13/index.m3u8
+#EXTINF:-1,11A14
+http://39.164.138.145:9003/hls/14/index.m3u8
+#EXTINF:-1,11A15
+http://39.164.138.145:9003/hls/15/index.m3u8
+#EXTINF:-1,11A16
+http://39.164.138.145:9003/hls/16/index.m3u8
+#EXTINF:-1,11A17
+http://39.164.138.145:9003/hls/17/index.m3u8
+#EXTINF:-1,11A18
+http://39.164.138.145:9003/hls/18/index.m3u8
+#EXTINF:-1,11A19
+http://39.164.138.145:9003/hls/19/index.m3u8
+#EXTINF:-1,11A20
+http://39.164.138.145:9003/hls/20/index.m3u8
+#EXTINF:-1,11A21
+http://39.164.138.145:9003/hls/21/index.m3u8
+#EXTINF:-1,11A22
+http://39.164.138.145:9003/hls/22/index.m3u8
+#EXTINF:-1,11A23
+http://39.164.138.145:9003/hls/23/index.m3u8
+#EXTINF:-1,11A24
+http://39.164.138.145:9003/hls/24/index.m3u8
+#EXTINF:-1,11A25
+http://39.164.138.145:9003/hls/25/index.m3u8
+#EXTINF:-1,11A27
+http://39.164.138.145:9003/hls/27/index.m3u8
+#EXTINF:-1,11A28
+http://39.164.138.145:9003/hls/28/index.m3u8
+#EXTINF:-1,11A29
+http://39.164.138.145:9003/hls/29/index.m3u8
+#EXTINF:-1,11A30
+http://39.164.138.145:9003/hls/30/index.m3u8
+#EXTINF:-1,11A31
+http://39.164.138.145:9003/hls/31/index.m3u8
+#EXTINF:-1,11A32
+http://39.164.138.145:9003/hls/32/index.m3u8
+#EXTINF:-1,11A33
+http://39.164.138.145:9003/hls/33/index.m3u8
+#EXTINF:-1,11A34
+http://39.164.138.145:9003/hls/34/index.m3u8
+#EXTINF:-1,11A35
+http://39.164.138.145:9003/hls/35/index.m3u8
+#EXTINF:-1,11A38
+http://39.164.138.145:9003/hls/38/index.m3u8
+#EXTINF:-1,11A41
+http://39.164.138.145:9003/hls/41/index.m3u8
+#EXTINF:-1,11A42
+http://39.164.138.145:9003/hls/42/index.m3u8
+#EXTINF:-1,11A44
+http://39.164.138.145:9003/hls/44/index.m3u8
+#EXTINF:-1,11A45
+http://39.164.138.145:9003/hls/45/index.m3u8
+#EXTINF:-1,11A46
+http://39.164.138.145:9003/hls/46/index.m3u8
+#EXTINF:-1,11A47
+http://39.164.138.145:9003/hls/47/index.m3u8
+#EXTINF:-1,11A48
+http://39.164.138.145:9003/hls/48/index.m3u8
+#EXTINF:-1,11A49
+http://39.164.138.145:9003/hls/49/index.m3u8
+#EXTINF:-1,11A50
+http://39.164.138.145:9003/hls/50/index.m3u8
+#EXTINF:-1,11A51
+http://39.164.138.145:9003/hls/51/index.m3u8
+#EXTINF:-1,11A52
+http://39.164.138.145:9003/hls/52/index.m3u8
+#EXTINF:-1,11A55
+http://39.164.138.145:9003/hls/55/index.m3u8
+#EXTINF:-1,11A57
+http://39.164.138.145:9003/hls/57/index.m3u8
+#EXTINF:-1,11A59
+http://39.164.138.145:9003/hls/59/index.m3u8
+#EXTINF:-1,11A61
+http://39.164.138.145:9003/hls/61/index.m3u8
+#EXTINF:-1,11A65
+http://39.164.138.145:9003/hls/65/index.m3u8
+#EXTINF:-1,14A1
+http://111.14.222.117:3333/hls/1/index.m3u8
+#EXTINF:-1,14A2
+http://111.14.222.117:3333/hls/2/index.m3u8
+#EXTINF:-1,14A3
+http://111.14.222.117:3333/hls/3/index.m3u8
+#EXTINF:-1,14A4
+http://111.14.222.117:3333/hls/4/index.m3u8
+#EXTINF:-1,14A7
+http://111.14.222.117:3333/hls/7/index.m3u8
+#EXTINF:-1,14A8
+http://111.14.222.117:3333/hls/8/index.m3u8
+#EXTINF:-1,14A9
+http://111.14.222.117:3333/hls/9/index.m3u8
+#EXTINF:-1,14A11
+http://111.14.222.117:3333/hls/11/index.m3u8
+#EXTINF:-1,14A13
+http://111.14.222.117:3333/hls/13/index.m3u8
+#EXTINF:-1,14A14
+http://111.14.222.117:3333/hls/14/index.m3u8
+#EXTINF:-1,14A15
+http://111.14.222.117:3333/hls/15/index.m3u8
+#EXTINF:-1,14A16
+http://111.14.222.117:3333/hls/16/index.m3u8
+#EXTINF:-1,14A17
+http://111.14.222.117:3333/hls/17/index.m3u8
+#EXTINF:-1,14A20
+http://111.14.222.117:3333/hls/20/index.m3u8
+#EXTINF:-1,14A22
+http://111.14.222.117:3333/hls/22/index.m3u8
+#EXTINF:-1,14A23
+http://111.14.222.117:3333/hls/23/index.m3u8
+#EXTINF:-1,14A26
+http://111.14.222.117:3333/hls/26/index.m3u8
+#EXTINF:-1,14A32
+http://111.14.222.117:3333/hls/32/index.m3u8
+#EXTINF:-1,14A33
+http://111.14.222.117:3333/hls/33/index.m3u8
+#EXTINF:-1,14A37
+http://111.14.222.117:3333/hls/37/index.m3u8
+#EXTINF:-1,14A39
+http://111.14.222.117:3333/hls/39/index.m3u8
+#EXTINF:-1,14A40
+http://111.14.222.117:3333/hls/40/index.m3u8
+#EXTINF:-1,14A41
+http://111.14.222.117:3333/hls/41/index.m3u8
+#EXTINF:-1,14A42
+http://111.14.222.117:3333/hls/42/index.m3u8
+#EXTINF:-1,14A53
+http://111.14.222.117:3333/hls/53/index.m3u8
+#EXTINF:-1,14A56
+http://111.14.222.117:3333/hls/56/index.m3u8
+#EXTINF:-1,14A57
+http://111.14.222.117:3333/hls/57/index.m3u8
+#EXTINF:-1,14A58
+http://111.14.222.117:3333/hls/58/index.m3u8
+#EXTINF:-1,14A59
+http://111.14.222.117:3333/hls/59/index.m3u8
+#EXTINF:-1,14A68
+http://111.14.222.117:3333/hls/68/index.m3u8
+#EXTINF:-1,16A20
+http://218.206.193.218:8888/hls/20/index.m3u8
+#EXTINF:-1,16A29
+http://218.206.193.218:8888/hls/29/index.m3u8
+#EXTINF:-1,16A68
+http://218.206.193.218:8888/hls/68/index.m3u8
+#EXTINF:-1,16A77
+http://218.206.193.218:8888/hls/77/index.m3u8
+#EXTINF:-1,16A111
+http://218.206.193.218:8888/hls/111/index.m3u8
+#EXTINF:-1,16A113
+http://218.206.193.218:8888/hls/113/index.m3u8
+#EXTINF:-1,17A153
+http://113.195.172.192:808/hls/153/index.m3u8
+#EXTINF:-1,18A3
+http://111.40.34.235:907/hls/3/index.m3u8
+#EXTINF:-1,18A7
+http://111.40.34.235:907/hls/7/index.m3u8
+#EXTINF:-1,18A61
+http://111.40.34.235:907/hls/61/index.m3u8
+#EXTINF:-1,18A95
+http://111.40.34.235:907/hls/95/index.m3u8
+#EXTINF:-1,20A1
+http://121.57.88.206:898/hls/1/index.m3u8
+#EXTINF:-1,20A3
+http://121.57.88.206:898/hls/3/index.m3u8
+#EXTINF:-1,20A5
+http://121.57.88.206:898/hls/5/index.m3u8
+#EXTINF:-1,20A6
+http://121.57.88.206:898/hls/6/index.m3u8
+#EXTINF:-1,20A8
+http://121.57.88.206:898/hls/8/index.m3u8
+#EXTINF:-1,20A16
+http://121.57.88.206:898/hls/16/index.m3u8
+#EXTINF:-1,23A1
+http://222.89.96.36:8001/hls/1/index.m3u8
+#EXTINF:-1,23A2
+http://222.89.96.36:8001/hls/2/index.m3u8
+#EXTINF:-1,23A3
+http://222.89.96.36:8001/hls/3/index.m3u8
+#EXTINF:-1,23A4
+http://222.89.96.36:8001/hls/4/index.m3u8
+#EXTINF:-1,23A5
+http://222.89.96.36:8001/hls/5/index.m3u8
+#EXTINF:-1,23A6
+http://222.89.96.36:8001/hls/6/index.m3u8
+#EXTINF:-1,23A7
+http://222.89.96.36:8001/hls/7/index.m3u8
+#EXTINF:-1,23A8
+http://222.89.96.36:8001/hls/8/index.m3u8
+#EXTINF:-1,23A11
+http://222.89.96.36:8001/hls/11/index.m3u8
+#EXTINF:-1,23A12
+http://222.89.96.36:8001/hls/12/index.m3u8
+#EXTINF:-1,23A13
+http://222.89.96.36:8001/hls/13/index.m3u8
+#EXTINF:-1,23A14
+http://222.89.96.36:8001/hls/14/index.m3u8
+#EXTINF:-1,23A15
+http://222.89.96.36:8001/hls/15/index.m3u8
+#EXTINF:-1,23A17
+http://222.89.96.36:8001/hls/17/index.m3u8
+#EXTINF:-1,23A18
+http://222.89.96.36:8001/hls/18/index.m3u8
+#EXTINF:-1,23A19
+http://222.89.96.36:8001/hls/19/index.m3u8
+#EXTINF:-1,23A22
+http://222.89.96.36:8001/hls/22/index.m3u8
+#EXTINF:-1,23A26
+http://222.89.96.36:8001/hls/26/index.m3u8
+#EXTINF:-1,25A1
+http://218.206.221.78:90/hls/1/index.m3u8
+#EXTINF:-1,25A2
+http://218.206.221.78:90/hls/2/index.m3u8
+#EXTINF:-1,25A3
+http://218.206.221.78:90/hls/3/index.m3u8
+#EXTINF:-1,25A4
+http://218.206.221.78:90/hls/4/index.m3u8
+#EXTINF:-1,25A5
+http://218.206.221.78:90/hls/5/index.m3u8
+#EXTINF:-1,25A6
+http://218.206.221.78:90/hls/6/index.m3u8
+#EXTINF:-1,25A7
+http://218.206.221.78:90/hls/7/index.m3u8
+#EXTINF:-1,25A8
+http://218.206.221.78:90/hls/8/index.m3u8
+#EXTINF:-1,25A9
+http://218.206.221.78:90/hls/9/index.m3u8
+#EXTINF:-1,25A10
+http://218.206.221.78:90/hls/10/index.m3u8
+#EXTINF:-1,25A11
+http://218.206.221.78:90/hls/11/index.m3u8
+#EXTINF:-1,25A12
+http://218.206.221.78:90/hls/12/index.m3u8
+#EXTINF:-1,25A13
+http://218.206.221.78:90/hls/13/index.m3u8
+#EXTINF:-1,25A14
+http://218.206.221.78:90/hls/14/index.m3u8
+#EXTINF:-1,25A15
+http://218.206.221.78:90/hls/15/index.m3u8
+#EXTINF:-1,25A16
+http://218.206.221.78:90/hls/16/index.m3u8
+#EXTINF:-1,25A17
+http://218.206.221.78:90/hls/17/index.m3u8
+#EXTINF:-1,25A18
+http://218.206.221.78:90/hls/18/index.m3u8
+#EXTINF:-1,25A19
+http://218.206.221.78:90/hls/19/index.m3u8
+#EXTINF:-1,25A20
+http://218.206.221.78:90/hls/20/index.m3u8
+#EXTINF:-1,25A21
+http://218.206.221.78:90/hls/21/index.m3u8
+#EXTINF:-1,25A22
+http://218.206.221.78:90/hls/22/index.m3u8
+#EXTINF:-1,25A23
+http://218.206.221.78:90/hls/23/index.m3u8
+#EXTINF:-1,25A24
+http://218.206.221.78:90/hls/24/index.m3u8
+#EXTINF:-1,25A27
+http://218.206.221.78:90/hls/27/index.m3u8
+#EXTINF:-1,25A28
+http://218.206.221.78:90/hls/28/index.m3u8
+#EXTINF:-1,25A29
+http://218.206.221.78:90/hls/29/index.m3u8
+#EXTINF:-1,25A30
+http://218.206.221.78:90/hls/30/index.m3u8
+#EXTINF:-1,25A31
+http://218.206.221.78:90/hls/31/index.m3u8
+#EXTINF:-1,25A32
+http://218.206.221.78:90/hls/32/index.m3u8
+#EXTINF:-1,25A33
+http://218.206.221.78:90/hls/33/index.m3u8
+#EXTINF:-1,25A34
+http://218.206.221.78:90/hls/34/index.m3u8
+#EXTINF:-1,25A35
+http://218.206.221.78:90/hls/35/index.m3u8
+#EXTINF:-1,25A36
+http://218.206.221.78:90/hls/36/index.m3u8
+#EXTINF:-1,25A37
+http://218.206.221.78:90/hls/37/index.m3u8
+#EXTINF:-1,25A39
+http://218.206.221.78:90/hls/39/index.m3u8
+#EXTINF:-1,25A41
+http://218.206.221.78:90/hls/41/index.m3u8
+#EXTINF:-1,25A43
+http://218.206.221.78:90/hls/43/index.m3u8
+#EXTINF:-1,25A45
+http://218.206.221.78:90/hls/45/index.m3u8
+#EXTINF:-1,25A46
+http://218.206.221.78:90/hls/46/index.m3u8
+#EXTINF:-1,25A47
+http://218.206.221.78:90/hls/47/index.m3u8
+#EXTINF:-1,25A48
+http://218.206.221.78:90/hls/48/index.m3u8
+#EXTINF:-1,25A49
+http://218.206.221.78:90/hls/49/index.m3u8
+#EXTINF:-1,25A50
+http://218.206.221.78:90/hls/50/index.m3u8
+#EXTINF:-1,25A51
+http://218.206.221.78:90/hls/51/index.m3u8
+#EXTINF:-1,25A52
+http://218.206.221.78:90/hls/52/index.m3u8
+#EXTINF:-1,25A53
+http://218.206.221.78:90/hls/53/index.m3u8
+#EXTINF:-1,25A54
+http://218.206.221.78:90/hls/54/index.m3u8
+#EXTINF:-1,25A55
+http://218.206.221.78:90/hls/55/index.m3u8
+#EXTINF:-1,25A56
+http://218.206.221.78:90/hls/56/index.m3u8
+#EXTINF:-1,25A57
+http://218.206.221.78:90/hls/57/index.m3u8
+#EXTINF:-1,25A78
+http://218.206.221.78:90/hls/78/index.m3u8
+#EXTINF:-1,25A80
+http://218.206.221.78:90/hls/80/index.m3u8
+#EXTINF:-1,25A81
+http://218.206.221.78:90/hls/81/index.m3u8
+#EXTINF:-1,26A2
+http://36.110.54.118:866/hls/2/index.m3u8
+#EXTINF:-1,26A24
+http://36.110.54.118:866/hls/24/index.m3u8
+#EXTINF:-1,26A28
+http://36.110.54.118:866/hls/28/index.m3u8
+#EXTINF:-1,26A37
+http://36.110.54.118:866/hls/37/index.m3u8
+#EXTINF:-1,28A3
+http://www.410725.xyz:8092/hls/3/index.m3u8
+#EXTINF:-1,28A5
+http://www.410725.xyz:8092/hls/5/index.m3u8
+#EXTINF:-1,28A9
+http://www.410725.xyz:8092/hls/9/index.m3u8
+#EXTINF:-1,28A13
+http://www.410725.xyz:8092/hls/13/index.m3u8
+#EXTINF:-1,28A17
+http://www.410725.xyz:8092/hls/17/index.m3u8
+#EXTINF:-1,28A24
+http://www.410725.xyz:8092/hls/24/index.m3u8
+#EXTINF:-1,28A31
+http://www.410725.xyz:8092/hls/31/index.m3u8
+#EXTINF:-1,28A46
+http://www.410725.xyz:8092/hls/46/index.m3u8
+#EXTINF:-1,28A55
+http://www.410725.xyz:8092/hls/55/index.m3u8
+#EXTINF:-1,28A57
+http://www.410725.xyz:8092/hls/57/index.m3u8
+#EXTINF:-1,28A66
+http://www.410725.xyz:8092/hls/66/index.m3u8
+#EXTINF:-1,31A1
+http://1.24.39.180:808/hls/1/index.m3u8
+#EXTINF:-1,31A2
+http://1.24.39.180:808/hls/2/index.m3u8
+#EXTINF:-1,31A3
+http://1.24.39.180:808/hls/3/index.m3u8
+#EXTINF:-1,31A6
+http://1.24.39.180:808/hls/6/index.m3u8
+#EXTINF:-1,34A28
+http://60.16.18.243:4949/hls/28/index.m3u8
+#EXTINF:-1,34A29
+http://60.16.18.243:4949/hls/29/index.m3u8
+#EXTINF:-1,34A84
+http://60.16.18.243:4949/hls/84/index.m3u8
