@@ -1,2993 +1,2913 @@
 #EXTM3U
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:9003/hls/1/index.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.164.138.145:9003/hls/36/index.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:9003/hls/21/index.m3u8
-#EXTINF:0,CCTV-2
+#EXTINF:-1 ,CCTV-2
 http://39.164.138.145:9003/hls/2/index.m3u8
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://39.164.138.145:9003/hls/34/index.m3u8
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.164.138.145:9003/hls/3/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.164.138.145:9003/hls/33/index.m3u8
-#EXTINF:0,CCTV-4
+#EXTINF:-1 ,CCTV-4
 http://39.164.138.145:9003/hls/4/index.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.164.138.145:9003/hls/35/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.164.138.145:9003/hls/5/index.m3u8
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.164.138.145:9003/hls/18/index.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.164.138.145:9003/hls/46/index.m3u8
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.164.138.145:9003/hls/6/index.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.164.138.145:9003/hls/47/index.m3u8
-#EXTINF:0,CCTV-7
+#EXTINF:-1 ,CCTV-7
 http://39.164.138.145:9003/hls/7/index.m3u8
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.164.138.145:9003/hls/8/index.m3u8
-#EXTINF:0,CCTV-9
+#EXTINF:-1 ,CCTV-9
 http://39.164.138.145:9003/hls/9/index.m3u8
-#EXTINF:0,CCTV-10
+#EXTINF:-1 ,CCTV-10
 http://39.164.138.145:9003/hls/10/index.m3u8
-#EXTINF:0,CCTV-11
+#EXTINF:-1 ,CCTV-11
 http://39.164.138.145:9003/hls/11/index.m3u8
-#EXTINF:0,CCTV-12
+#EXTINF:-1 ,CCTV-12
 http://39.164.138.145:9003/hls/12/index.m3u8
-#EXTINF:0,CCTV-13
+#EXTINF:-1 ,CCTV-13
 http://39.164.138.145:9003/hls/13/index.m3u8
-#EXTINF:0,CCTV-14
+#EXTINF:-1 ,CCTV-14
 http://39.164.138.145:9003/hls/14/index.m3u8
-#EXTINF:0,CCTV-15
+#EXTINF:-1 ,CCTV-15
 http://39.164.138.145:9003/hls/15/index.m3u8
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.164.138.145:9003/hls/17/index.m3u8
-#EXTINF:0,河南卫视
+#EXTINF:-1 ,河南卫视
 http://39.164.138.145:9003/hls/19/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.164.138.145:9003/hls/37/index.m3u8
-#EXTINF:0,山东卫视
-http://39.164.138.145:9003/hls/39/index.m3u8
-#EXTINF:0,安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://39.164.138.145:9003/hls/40/index.m3u8
-#EXTINF:0,辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://39.164.138.145:9003/hls/41/index.m3u8
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://39.164.138.145:9003/hls/38/index.m3u8
-#EXTINF:0,陕西卫视
+#EXTINF:-1 ,陕西卫视
 http://39.164.138.145:9003/hls/42/index.m3u8
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.164.138.145:9003/hls/50/index.m3u8
-#EXTINF:0,云南卫视
+#EXTINF:-1 ,云南卫视
 http://39.164.138.145:9003/hls/51/index.m3u8
-#EXTINF:0,重庆卫视
+#EXTINF:-1 ,重庆卫视
 http://39.164.138.145:9003/hls/52/index.m3u8
-#EXTINF:0,吉林卫视
+#EXTINF:-1 ,吉林卫视
 http://39.164.138.145:9003/hls/53/index.m3u8
-#EXTINF:0,东南卫视
+#EXTINF:-1 ,东南卫视
 http://39.164.138.145:9003/hls/55/index.m3u8
-#EXTINF:0,广西卫视
+#EXTINF:-1 ,广西卫视
 http://39.164.138.145:9003/hls/57/index.m3u8
-#EXTINF:0,山西卫视
-http://39.164.138.145:9003/hls/58/index.m3u8
-#EXTINF:0,金鹰卡通
+#EXTINF:-1 ,金鹰卡通
 http://39.164.138.145:9003/hls/62/index.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:8899/hls/1/index.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.164.138.145:8899/hls/36/index.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:8899/hls/21/index.m3u8
-#EXTINF:0,CCTV-2
+#EXTINF:-1 ,CCTV-2
 http://39.164.138.145:8899/hls/2/index.m3u8
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://39.164.138.145:8899/hls/34/index.m3u8
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.164.138.145:8899/hls/3/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.164.138.145:8899/hls/33/index.m3u8
-#EXTINF:0,CCTV-4
+#EXTINF:-1 ,CCTV-4
 http://39.164.138.145:8899/hls/4/index.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.164.138.145:8899/hls/35/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.164.138.145:8899/hls/5/index.m3u8
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.164.138.145:8899/hls/18/index.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.164.138.145:8899/hls/46/index.m3u8
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.164.138.145:8899/hls/6/index.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.164.138.145:8899/hls/47/index.m3u8
-#EXTINF:0,CCTV-7
+#EXTINF:-1 ,CCTV-7
 http://39.164.138.145:8899/hls/7/index.m3u8
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.164.138.145:8899/hls/8/index.m3u8
-#EXTINF:0,CCTV-9
+#EXTINF:-1 ,CCTV-9
 http://39.164.138.145:8899/hls/9/index.m3u8
-#EXTINF:0,CCTV-10
+#EXTINF:-1 ,CCTV-10
 http://39.164.138.145:8899/hls/10/index.m3u8
-#EXTINF:0,CCTV-11
+#EXTINF:-1 ,CCTV-11
 http://39.164.138.145:8899/hls/11/index.m3u8
-#EXTINF:0,CCTV-12
+#EXTINF:-1 ,CCTV-12
 http://39.164.138.145:8899/hls/12/index.m3u8
-#EXTINF:0,CCTV-13
+#EXTINF:-1 ,CCTV-13
 http://39.164.138.145:8899/hls/13/index.m3u8
-#EXTINF:0,CCTV-14
+#EXTINF:-1 ,CCTV-14
 http://39.164.138.145:8899/hls/14/index.m3u8
-#EXTINF:0,CCTV-15
+#EXTINF:-1 ,CCTV-15
 http://39.164.138.145:8899/hls/15/index.m3u8
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.164.138.145:8899/hls/17/index.m3u8
-#EXTINF:0,河南卫视
+#EXTINF:-1 ,河南卫视
 http://39.164.138.145:8899/hls/19/index.m3u8
-#EXTINF:0,河北卫视
+#EXTINF:-1 ,河北卫视
 http://39.164.138.145:8899/hls/44/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.164.138.145:8899/hls/37/index.m3u8
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.164.138.145:8899/hls/39/index.m3u8
-#EXTINF:0,安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://39.164.138.145:8899/hls/40/index.m3u8
-#EXTINF:0,辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://39.164.138.145:8899/hls/41/index.m3u8
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://39.164.138.145:8899/hls/38/index.m3u8
-#EXTINF:0,陕西卫视
+#EXTINF:-1 ,陕西卫视
 http://39.164.138.145:8899/hls/42/index.m3u8
-#EXTINF:0,贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://39.164.138.145:8899/hls/43/index.m3u8
-#EXTINF:0,江西卫视
+#EXTINF:-1 ,江西卫视
 http://39.164.138.145:8899/hls/45/index.m3u8
-#EXTINF:0,四川卫视
+#EXTINF:-1 ,四川卫视
 http://39.164.138.145:8899/hls/48/index.m3u8
-#EXTINF:0,湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://39.164.138.145:8899/hls/49/index.m3u8
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.164.138.145:8899/hls/50/index.m3u8
-#EXTINF:0,云南卫视
+#EXTINF:-1 ,云南卫视
 http://39.164.138.145:8899/hls/51/index.m3u8
-#EXTINF:0,重庆卫视
+#EXTINF:-1 ,重庆卫视
 http://39.164.138.145:8899/hls/52/index.m3u8
-#EXTINF:0,吉林卫视
+#EXTINF:-1 ,吉林卫视
 http://39.164.138.145:8899/hls/53/index.m3u8
-#EXTINF:0,东南卫视
+#EXTINF:-1 ,东南卫视
 http://39.164.138.145:8899/hls/55/index.m3u8
-#EXTINF:0,广西卫视
+#EXTINF:-1 ,广西卫视
 http://39.164.138.145:8899/hls/57/index.m3u8
-#EXTINF:0,山西卫视
+#EXTINF:-1 ,山西卫视
 http://39.164.138.145:8899/hls/58/index.m3u8
-#EXTINF:0,金鹰卡通
-http://39.164.138.145:8899/hls/62/index.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:9082/hls/1/index.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.164.138.145:9082/hls/36/index.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.164.138.145:9082/hls/21/index.m3u8
-#EXTINF:0,CCTV-2
+#EXTINF:-1 ,CCTV-2
 http://39.164.138.145:9082/hls/2/index.m3u8
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://39.164.138.145:9082/hls/34/index.m3u8
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.164.138.145:9082/hls/3/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.164.138.145:9082/hls/33/index.m3u8
-#EXTINF:0,CCTV-4
+#EXTINF:-1 ,CCTV-4
 http://39.164.138.145:9082/hls/4/index.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.164.138.145:9082/hls/35/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.164.138.145:9082/hls/5/index.m3u8
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.164.138.145:9082/hls/18/index.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.164.138.145:9082/hls/46/index.m3u8
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.164.138.145:9082/hls/6/index.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.164.138.145:9082/hls/47/index.m3u8
-#EXTINF:0,CCTV-7
+#EXTINF:-1 ,CCTV-7
 http://39.164.138.145:9082/hls/7/index.m3u8
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.164.138.145:9082/hls/8/index.m3u8
-#EXTINF:0,CCTV-9
+#EXTINF:-1 ,CCTV-9
 http://39.164.138.145:9082/hls/9/index.m3u8
-#EXTINF:0,CCTV-10
+#EXTINF:-1 ,CCTV-10
 http://39.164.138.145:9082/hls/10/index.m3u8
-#EXTINF:0,CCTV-11
+#EXTINF:-1 ,CCTV-11
 http://39.164.138.145:9082/hls/11/index.m3u8
-#EXTINF:0,CCTV-12
+#EXTINF:-1 ,CCTV-12
 http://39.164.138.145:9082/hls/12/index.m3u8
-#EXTINF:0,CCTV-13
+#EXTINF:-1 ,CCTV-13
 http://39.164.138.145:9082/hls/13/index.m3u8
-#EXTINF:0,CCTV-14
+#EXTINF:-1 ,CCTV-14
 http://39.164.138.145:9082/hls/14/index.m3u8
-#EXTINF:0,CCTV-15
+#EXTINF:-1 ,CCTV-15
 http://39.164.138.145:9082/hls/15/index.m3u8
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.164.138.145:9082/hls/17/index.m3u8
-#EXTINF:0,河南卫视
+#EXTINF:-1 ,河南卫视
 http://39.164.138.145:9082/hls/19/index.m3u8
-#EXTINF:0,河北卫视
+#EXTINF:-1 ,河北卫视
 http://39.164.138.145:9082/hls/44/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.164.138.145:9082/hls/37/index.m3u8
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.164.138.145:9082/hls/39/index.m3u8
-#EXTINF:0,安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://39.164.138.145:9082/hls/40/index.m3u8
-#EXTINF:0,辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://39.164.138.145:9082/hls/41/index.m3u8
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://39.164.138.145:9082/hls/38/index.m3u8
-#EXTINF:0,陕西卫视
+#EXTINF:-1 ,陕西卫视
 http://39.164.138.145:9082/hls/42/index.m3u8
-#EXTINF:0,贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://39.164.138.145:9082/hls/43/index.m3u8
-#EXTINF:0,江西卫视
+#EXTINF:-1 ,江西卫视
 http://39.164.138.145:9082/hls/45/index.m3u8
-#EXTINF:0,四川卫视
+#EXTINF:-1 ,四川卫视
 http://39.164.138.145:9082/hls/48/index.m3u8
-#EXTINF:0,湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://39.164.138.145:9082/hls/49/index.m3u8
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.164.138.145:9082/hls/50/index.m3u8
-#EXTINF:0,云南卫视
+#EXTINF:-1 ,云南卫视
 http://39.164.138.145:9082/hls/51/index.m3u8
-#EXTINF:0,重庆卫视
+#EXTINF:-1 ,重庆卫视
 http://39.164.138.145:9082/hls/52/index.m3u8
-#EXTINF:0,吉林卫视
+#EXTINF:-1 ,吉林卫视
 http://39.164.138.145:9082/hls/53/index.m3u8
-#EXTINF:0,东南卫视
+#EXTINF:-1 ,东南卫视
 http://39.164.138.145:9082/hls/55/index.m3u8
-#EXTINF:0,广西卫视
+#EXTINF:-1 ,广西卫视
 http://39.164.138.145:9082/hls/57/index.m3u8
-#EXTINF:0,山西卫视
+#EXTINF:-1 ,山西卫视
 http://39.164.138.145:9082/hls/58/index.m3u8
-#EXTINF:0,金鹰卡通
+#EXTINF:-1 ,金鹰卡通
 http://39.164.138.145:9082/hls/62/index.m3u8
-#EXTINF:0,国学频道
-http://39.164.138.145:8899/hls/32/index.m3u8
-#EXTINF:0,甘肃卫视
+#EXTINF:-1 ,甘肃卫视
 http://39.164.138.145:8899/hls/60/index.m3u8
-#EXTINF:0,新疆卫视
+#EXTINF:-1 ,新疆卫视
 http://39.164.138.145:9003/hls/68/index.m3u8
-#EXTINF:0,海南卫视
-http://39.164.138.145:9003/hls/59/index.m3u8
-#EXTINF:0,国学频道
+#EXTINF:-1 ,国学频道
 http://39.164.138.145:9082/hls/32/index.m3u8
-#EXTINF:0,海南卫视
+#EXTINF:-1 ,海南卫视
 http://39.164.138.145:9082/hls/59/index.m3u8
-#EXTINF:0,甘肃卫视
+#EXTINF:-1 ,甘肃卫视
 http://39.164.138.145:9082/hls/60/index.m3u8
-#EXTINF:0,新疆卫视
+#EXTINF:-1 ,新疆卫视
 http://39.164.138.145:9082/hls/68/index.m3u8
-#EXTINF:0,西藏卫视
+#EXTINF:-1 ,西藏卫视
 http://39.164.138.145:9082/hls/65/index.m3u8
-#EXTINF:0,咪咕视频-25
+#EXTINF:-1 ,咪咕视频-25
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
-#EXTINF:0,咪咕视频1
+#EXTINF:-1 ,咪咕视频1
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
-#EXTINF:0,咪咕视频2
+#EXTINF:-1 ,咪咕视频2
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
-#EXTINF:0,咪咕视频36*
+#EXTINF:-1 ,咪咕视频36*
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000012616/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=m
-#EXTINF:0,咪咕视频23
+#EXTINF:-1 ,咪咕视频23
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011531/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=m
-#EXTINF:0,CCTV6
-http://39.152.103.17:8089/tsfile/live/1005_1.m3u8
-#EXTINF:0,CCTV16奥林匹克
+#EXTINF:-1 ,CCTV16奥林匹克
 http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-#EXTINF:0,快乐垂钓
-http://39.152.103.17:8089/tsfile/live/1110_1.m3u8
-#EXTINF:0,CCTV-10
+#EXTINF:-1 ,CCTV-10
 http://111.14.222.117:3333/hls/10/index.m3u8
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.164.138.145:9003/hls/16/index.m3u8
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.165.39.49:19901/tsfile/live/1089_1.m3u8
-#EXTINF:0,东南卫视
+#EXTINF:-1 ,东南卫视
 http://39.165.39.49:19901/tsfile/live/1149_1.m3u8
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://39.165.39.49:19901/tsfile/live/1128_1.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.165.39.49:19901/tsfile/live/1130_1.m3u8
-#EXTINF:0,安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://39.165.39.49:19901/tsfile/live/1134_1.m3u8
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.165.39.49:19901/tsfile/live/1133_1.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.165.39.49:19901/tsfile/live/1131_1.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.165.39.49:19901/tsfile/live/1129_1.m3u8
-#EXTINF:0,河南卫视
+#EXTINF:-1 ,河南卫视
 http://39.165.39.49:19901/tsfile/live/1105_1.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.165.39.49:19901/tsfile/live/1127_1.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.165.39.49:19901/tsfile/live/1141_1.m3u8
-#EXTINF:0,湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://39.165.39.49:19901/tsfile/live/1143_1.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.165.39.49:19901/tsfile/live/1140_1.m3u8
-#EXTINF:0,中国教育移动
+#EXTINF:-1 ,中国教育移动
 http://39.165.39.49:19901/tsfile/live/1090_1.m3u8
-#EXTINF:0,CCTV-1
+#EXTINF:-1 ,CCTV-1
 http://39.165.39.49:19901/tsfile/live/1001_1.m3u8
-#EXTINF:0,CCTV-2
+#EXTINF:-1 ,CCTV-2
 http://39.165.39.49:19901/tsfile/live/1002_1.m3u8
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.165.39.49:19901/tsfile/live/1003_1.m3u8
-#EXTINF:0,CCTV-4
+#EXTINF:-1 ,CCTV-4
 http://39.165.39.49:19901/tsfile/live/1004_1.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.165.39.49:19901/tsfile/live/1005_1.m3u8
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.165.39.49:19901/tsfile/live/1006_1.m3u8
-#EXTINF:0,CCTV-7
+#EXTINF:-1 ,CCTV-7
 http://39.165.39.49:19901/tsfile/live/1007_1.m3u8
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.165.39.49:19901/tsfile/live/1008_1.m3u8
-#EXTINF:0,CCTV-9
+#EXTINF:-1 ,CCTV-9
 http://39.165.39.49:19901/tsfile/live/1009_1.m3u8
-#EXTINF:0,CCTV-10
+#EXTINF:-1 ,CCTV-10
 http://39.165.39.49:19901/tsfile/live/1010_1.m3u8
-#EXTINF:0,CCTV-11
+#EXTINF:-1 ,CCTV-11
 http://39.165.39.49:19901/tsfile/live/1011_1.m3u8
-#EXTINF:0,CCTV-12
+#EXTINF:-1 ,CCTV-12
 http://39.165.39.49:19901/tsfile/live/1000_1.m3u8
-#EXTINF:0,CCTV-13*****
+#EXTINF:-1 ,CCTV-13*****
 http://39.165.39.49:19901/tsfile/live/1084_1.m3u8
-#EXTINF:0,CCTV-14
+#EXTINF:-1 ,CCTV-14
 http://39.165.39.49:19901/tsfile/live/1085_1.m3u8
-#EXTINF:0,CCTV-15
+#EXTINF:-1 ,CCTV-15
 http://39.165.39.49:19901/tsfile/live/1086_1.m3u8
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.165.39.49:19901/tsfile/live/1088_1.m3u8
-#EXTINF:0,全纪实
+#EXTINF:-1 ,全纪实
 http://39.165.39.49:19901/tsfile/live/1126_1.m3u8
-#EXTINF:0,快乐垂钓
+#EXTINF:-1 ,快乐垂钓
 http://39.165.39.49:19901/tsfile/live/1115_1.m3u8
-#EXTINF:0,文物宝库移动
+#EXTINF:-1 ,文物宝库移动
 http://39.165.39.49:19901/tsfile/live/1119_1.m3u8
-#EXTINF:0,纪实科教
+#EXTINF:-1 ,纪实科教
 http://39.152.103.17:8089/tsfile/live/1053_1.m3u8
-#EXTINF:0,金鹰卡通移动
+#EXTINF:-1 ,金鹰卡通移动
 http://39.165.39.49:19901/tsfile/live/1156_1.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://111.63.117.13:6060/030000001001/beijingstv/1.m3u8
-#EXTINF:0,CCTV1
+#EXTINF:-1 ,CCTV1
 http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:0,CCTV1
+#EXTINF:-1 ,CCTV1
 http://111.63.117.13:6060/030000001000/CCTV-1-HD/index.m3u8
-#EXTINF:0,晴彩竞技
+#EXTINF:-1 ,晴彩竞技
 http://111.63.117.13:6060/030000001000/G_MIGUZHTY/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://111.63.117.13:6060/030000001001/zhejiangstv/1.m3u8
-#EXTINF:0,CCTV3
+#EXTINF:-1 ,CCTV3
 http://111.63.117.13:6060/030000001001/cctv-3/1.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://111.63.117.13:6060/030000001001/hunanstv/1.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://111.63.117.13:6060/030000001001/jiangsustv/1.m3u8
-#EXTINF:0,CCTV5
+#EXTINF:-1 ,CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:0,CCTV5
+#EXTINF:-1 ,CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/index.m3u8
-#EXTINF:0,CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://111.63.117.13:6060/030000001001/hdcctv05plus/1.m3u8
-#EXTINF:0,CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:0,CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/index.m3u8
-#EXTINF:0,CCTV8
+#EXTINF:-1 ,CCTV8
 http://111.63.117.13:6060/030000001001/cctv-8/1.m3u8
-#EXTINF:0,CCTV16
+#EXTINF:-1 ,CCTV16
 http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8
-#EXTINF:0,CCTV17
+#EXTINF:-1 ,CCTV17
 http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8
-#EXTINF:0,CCTV17
+#EXTINF:-1 ,CCTV17
 http://111.63.117.13:6060/030000001000/G_CCTV-17-HD/index.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://111.63.117.13:6060/030000001000/BTV-1/index.m3u8
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://111.63.117.13:6060/030000001000/DFWS-HD/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://111.63.117.13:6060/030000001000/ZJWS-HD/index.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://111.63.117.13:6060/030000001000/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://111.63.117.13:6060/030000001000/HNWS-HD/index.m3u8
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://111.63.117.13:6060/030000001000/G_JIANGSU-HD/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://111.63.117.13:6060/030000001000/GDWS-HD/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://111.63.117.13:6060/030000001000/GDWS-HD/GDWS-HD.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.63.117.13:6060/030000001000/SZWS-HD/index.m3u8
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://111.63.117.13:6060/030000001001/shandongstv/1.m3u8
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://111.63.117.13:6060/030000001001/jdaju/1.m3u8
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://111.63.117.13:6060/030000001001/guzhuangjc/1.m3u8
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.63.117.13:6060/030000001001/dongzuody/1.m3u8
-#EXTINF:0,海外剧场
+#EXTINF:-1 ,海外剧场
 http://111.63.117.13:6060/030000001001/xiqumd/1.m3u8
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.63.117.13:6060/030000001001/saishijx/1.m3u8
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://111.63.117.13:6060/030000001001/jingsongxy/1.m3u8
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.63.117.13:6060/030000001001/HD-1500k-720P-cmlapo/1.m3u8
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.63.117.13:6060/030000001001/SD-1500k-576P-gzkongfu/1.m3u8
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://111.63.117.13:6060/030000001001/HD-4000k-1080P-xwwl/1.m3u8
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://111.63.117.13:6060/030000001001/jdianying/1.m3u8
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://111.63.117.13:6060/030000001001/junlvjc/1.m3u8
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://111.63.117.13:6060/030000001001/donghuawg/1.m3u8
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://111.63.117.13:6060/030000001001/junshipl/1.m3u8
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://111.63.117.13:6060/030000001001/nongyezf/1.m3u8
-#EXTINF:0,精品记录
+#EXTINF:-1 ,精品记录
 http://111.63.117.13:6060/030000001001/jingpinjl/1.m3u8
-#EXTINF:0,健康有约
+#EXTINF:-1 ,健康有约
 http://111.63.117.13:6060/030000001001/ljiankangyouyue/1.m3u8
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://111.63.117.13:6060/030000001001/jingpinmc/1.m3u8
-#EXTINF:0,黑莓电竞
+#EXTINF:-1 ,黑莓电竞
 http://111.63.117.13:6060/030000001001/wmyx/1.m3u8
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://111.63.117.13:6060/030000001001/dabodj/1.m3u8
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://111.63.117.13:6060/030000001000/HLJWS-HD/HLJWS-HD.m3u8
-#EXTINF:0,山东卫视HD
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8
-#EXTINF:0,深圳卫视HD
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8
-#EXTINF:0,湖南卫视
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jtiyu/1.m3u8
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/ljiankangyouyue/1.m3u8
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/aiqingxj/1.m3u8
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongzuody/1.m3u8
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junlvjc/1.m3u8
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/xiqumd/1.m3u8
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinjl/1.m3u8
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junshipl/1.m3u8
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/saishijx/1.m3u8
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingsongxy/1.m3u8
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdaju/1.m3u8
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdianying/1.m3u8
-#EXTINF:0,咪咕综合体育
+#EXTINF:-1 ,咪咕综合体育
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8
-#EXTINF:0,咪咕视频8
+#EXTINF:-1 ,咪咕视频8
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000001000010948/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=m
-#EXTINF:0,咪咕视频24
-http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000000097/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=m
-#EXTINF:0,CCTV-14
-http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:0,华文八套
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:0,林忆莲精选57首(4小时)
+#EXTINF:-1 ,林忆莲精选57首(4小时)
 https://k0ub7yffy10yez.djvod.ndcimgs.com/upic/2024/01/16/07/BMjAyNDAxMTYwNzEzNTNfODI4NTk1NTQ0XzEyMjIyODI2OTMyM18yXzM=_b_B358e6b1dbf7db9a80ffc4f82cee98a4e.mp4
-#EXTINF:0,华文五套
+#EXTINF:-1 ,华文五套
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:0,河南卫视
+#EXTINF:-1 ,河南卫视
 http://1.94.31.214/php/hntv.php
-#EXTINF:0,爱情喜剧HD
+#EXTINF:-1 ,爱情喜剧HD
 http://111.11.121.184:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视******
+#EXTINF:-1 ,北京卫视******
 http://111.11.121.184:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV3HD
+#EXTINF:-1 ,CCTV3HD
 http://111.11.121.184:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5 体育ᴴᴰ
+#EXTINF:-1 ,CCTV5 体育ᴴᴰ
 http://111.11.121.184:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6
+#EXTINF:-1 ,CCTV6
 http://111.11.121.184:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8 电视剧ᴴᴰ
+#EXTINF:-1 ,CCTV8 电视剧ᴴᴰ
 http://111.11.121.184:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://111.11.121.184:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影HD
+#EXTINF:-1 ,动作电影HD
 http://111.11.121.184:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,NewTV潮妈辣婆ᴴᴰ
+#EXTINF:-1 ,NewTV潮妈辣婆ᴴᴰ
 http://111.11.121.184:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV16
+#EXTINF:-1 ,CCTV16
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV17
+#EXTINF:-1 ,CCTV17
 http://111.11.121.184:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,CCTV5+
+#EXTINF:-1 ,CCTV5+
 http://111.11.121.184:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视ᴴᴰ*
+#EXTINF:-1 ,湖南卫视ᴴᴰ*
 http://111.11.121.184:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://111.11.121.184:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,NewTV黑莓电影ᴴᴰ
+#EXTINF:-1 ,NewTV黑莓电影ᴴᴰ
 http://111.11.121.184:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视***
+#EXTINF:-1 ,江苏卫视***
 http://111.11.121.184:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://111.11.121.184:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,NewTV精品记录ᴴᴰ
+#EXTINF:-1 ,NewTV精品记录ᴴᴰ
 http://111.11.121.184:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,惊悚悬疑HD
+#EXTINF:-1 ,惊悚悬疑HD
 http://111.11.121.184:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育HD
+#EXTINF:-1 ,精品体育HD
 http://111.11.121.184:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://111.11.121.184:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.121.184:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://111.11.121.184:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,明星大片
+#EXTINF:-1 ,明星大片
 http://111.11.121.184:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://111.11.121.184:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.11.121.184:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫HD
+#EXTINF:-1 ,中国功夫HD
 http://111.11.121.184:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.11.121.184:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://111.11.121.184:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,海外剧场HD
+#EXTINF:-1 ,海外剧场HD
 http://111.11.121.184:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视***
+#EXTINF:-1 ,浙江卫视***
 http://111.11.121.184:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.11.121.186:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,北京卫视******
+#EXTINF:-1 ,北京卫视******
 http://111.11.121.190:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://111.11.121.192:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://111.11.121.192:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.121.192:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://111.11.121.192:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://111.11.121.192:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.121.192:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://111.11.121.192:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.121.194:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,军旅剧场HD
+#EXTINF:-1 ,军旅剧场HD
 http://111.11.121.194:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://111.11.121.196:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.11.121.196:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.11.121.196:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,浙江卫视***
+#EXTINF:-1 ,浙江卫视***
 http://111.11.121.196:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.121.198:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,CCTV16 奥林匹克
+#EXTINF:-1 ,CCTV16 奥林匹克
 http://111.11.121.198:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://111.11.121.200:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://111.11.121.200:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.11.121.200:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://111.11.121.200:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,NewTV海外剧场
+#EXTINF:-1 ,NewTV海外剧场
 http://111.11.121.200:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://111.11.121.202:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
-http://111.11.121.202:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
-http://111.11.121.202:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,精品体育
-http://111.11.121.202:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.121.202:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://111.11.121.204:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,广东卫视
-http://111.11.121.204:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,潮妈辣婆
-http://111.11.121.204:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV16 奥林匹克
+#EXTINF:-1 ,CCTV16 奥林匹克
 http://111.11.121.204:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,中国功夫
-http://111.11.121.204:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,深圳卫视
-http://111.11.121.204:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,CCTV3 综艺
+#EXTINF:-1 ,CCTV3 综艺
 http://111.11.121.208:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.121.208:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://111.11.121.210:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,NewTV海外剧场
-http://111.11.121.214:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,江苏卫视
-http://111.11.121.216:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.11.121.216:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.121.222:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,NewTV海外剧场
+#EXTINF:-1 ,NewTV海外剧场
 http://111.11.121.226:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.123.10:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://111.11.123.10:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.123.14:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://111.11.123.14:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,农业致富HD
+#EXTINF:-1 ,农业致富HD
 http://111.11.123.14:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://111.11.123.14:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,黑莓电竞HD
+#EXTINF:-1 ,黑莓电竞HD
 http://111.11.123.14:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,NewTV海外剧场
+#EXTINF:-1 ,NewTV海外剧场
 http://111.11.123.14:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.11.123.28:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
+#EXTINF:-1 ,CCTV5+ 体育赛事
 http://111.11.123.28:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,黑莓电影HD
+#EXTINF:-1 ,黑莓电影HD
 http://111.11.123.28:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,精品记录HD
+#EXTINF:-1 ,精品记录HD
 http://111.11.123.28:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
+#EXTINF:-1 ,CCTV5+ 体育赛事
 http://111.11.123.30:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视*
+#EXTINF:-1 ,湖南卫视*
 http://111.11.123.30:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://111.11.123.30:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://111.11.123.30:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.11.123.30:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,黑莓电竞HD
+#EXTINF:-1 ,黑莓电竞HD
 http://111.11.123.30:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://111.11.123.32:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.11.123.32:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.11.123.32:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.123.34:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://111.11.123.34:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://111.11.123.34:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,军旅剧场HD
+#EXTINF:-1 ,军旅剧场HD
 http://111.11.123.34:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://111.11.123.34:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.11.123.34:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,CCTV6 电影
+#EXTINF:-1 ,CCTV6 电影
 http://111.11.123.36:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://111.11.123.36:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.123.36:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.11.123.36:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,精品记录HD
+#EXTINF:-1 ,精品记录HD
 http://111.11.123.36:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://111.11.123.36:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场HD
+#EXTINF:-1 ,军旅剧场HD
 http://111.11.123.36:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://111.11.123.36:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,黑莓电竞HD
+#EXTINF:-1 ,黑莓电竞HD
 http://111.11.123.36:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://111.11.123.4:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
+#EXTINF:-1 ,CCTV5+ 体育赛事
 http://111.11.123.4:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://111.11.123.4:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影HD
+#EXTINF:-1 ,黑莓电影HD
 http://111.11.123.4:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://111.11.123.4:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,健康有约HD
-http://111.11.123.4:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,中国功夫
-http://111.11.123.4:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
-http://111.11.123.4:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,NewTV海外剧场
-http://111.11.123.4:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,北京卫视******
-http://111.11.123.40:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,古装剧场
-http://111.11.123.40:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.123.40:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://111.11.123.40:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品记录HD
+#EXTINF:-1 ,精品记录HD
 http://111.11.123.40:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://111.11.123.40:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.11.123.40:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,CCTV1ᴴᴰ
+#EXTINF:-1 ,CCTV1ᴴᴰ
 http://111.11.123.42:6610/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8?
-#EXTINF:0,CCTV3
+#EXTINF:-1 ,CCTV3
 http://111.11.123.42:6610/030000001000/CCTV-3/CCTV-3.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://111.11.123.42:6610/030000001000/CCTV-5/CCTV-5.m3u8?
-#EXTINF:0,****江苏卫视
+#EXTINF:-1 ,****江苏卫视
 http://111.11.123.42:6610/030000001000/G_JIANGSU-HD/G_JIANGSU-HD.m3u8?
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://111.11.123.42:6610/030000001000/HLJWS-HD/HLJWS-HD.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://111.11.123.42:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://111.11.123.42:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://111.11.123.42:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://111.11.123.42:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://111.11.123.42:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,湖南卫视*
+#EXTINF:-1 ,湖南卫视*
 http://111.11.123.42:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,NewTV精品纪录ᴴᴰ
+#EXTINF:-1 ,NewTV精品纪录ᴴᴰ
 http://111.11.123.42:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.123.42:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,NewTV农业致富ᴴᴰ
+#EXTINF:-1 ,NewTV农业致富ᴴᴰ
 http://111.11.123.42:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,NewTV金牌综艺ᴴᴰ
+#EXTINF:-1 ,NewTV金牌综艺ᴴᴰ
 http://111.11.123.42:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,NewTV中国功夫ᴴᴰ
+#EXTINF:-1 ,NewTV中国功夫ᴴᴰ
 http://111.11.123.42:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视ᴴᴰ
+#EXTINF:-1 ,山东卫视ᴴᴰ
 http://111.11.123.42:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视ᴴᴰ
+#EXTINF:-1 ,深圳卫视ᴴᴰ
 http://111.11.123.42:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,海外剧场ᴴᴰ
+#EXTINF:-1 ,海外剧场ᴴᴰ
 http://111.11.123.42:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视ᴴᴰ***
+#EXTINF:-1 ,浙江卫视ᴴᴰ***
 http://111.11.123.42:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://111.11.123.44:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://111.11.123.44:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://111.11.123.44:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://111.11.123.44:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://111.11.123.44:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,NewTV动作电影ᴴᴰ
+#EXTINF:-1 ,NewTV动作电影ᴴᴰ
 http://111.11.123.44:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,NewTV潮妈辣婆ᴴᴰ
+#EXTINF:-1 ,NewTV潮妈辣婆ᴴᴰ
 http://111.11.123.44:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV16ᴴᴰ
+#EXTINF:-1 ,CCTV16ᴴᴰ
 http://111.11.123.44:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV17ᴴᴰ
+#EXTINF:-1 ,CCTV17ᴴᴰ
 http://111.11.123.44:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,湖南卫视ᴴᴰ
+#EXTINF:-1 ,湖南卫视ᴴᴰ
 http://111.11.123.44:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,黑莓电影HD
+#EXTINF:-1 ,黑莓电影HD
 http://111.11.123.44:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视ᴴᴰ
+#EXTINF:-1 ,江苏卫视ᴴᴰ
 http://111.11.123.44:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,NewTV惊悚悬疑ᴴᴰ
+#EXTINF:-1 ,NewTV惊悚悬疑ᴴᴰ
 http://111.11.123.44:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,NewTV军旅剧场ᴴᴰ
+#EXTINF:-1 ,NewTV军旅剧场ᴴᴰ
 http://111.11.123.44:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://111.11.123.44:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,NewTV农业致富ᴴᴰ
+#EXTINF:-1 ,NewTV农业致富ᴴᴰ
 http://111.11.123.44:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,NewTV金牌综艺ᴴᴰ
+#EXTINF:-1 ,NewTV金牌综艺ᴴᴰ
 http://111.11.123.44:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,NewTV中国功夫ᴴᴰ
+#EXTINF:-1 ,NewTV中国功夫ᴴᴰ
 http://111.11.123.44:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,黑莓电竞HD
+#EXTINF:-1 ,黑莓电竞HD
 http://111.11.123.44:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,浙江卫视ᴴᴰ***
+#EXTINF:-1 ,浙江卫视ᴴᴰ***
 http://111.11.123.44:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.11.123.46:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,家庭剧场
-http://111.11.123.46:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品体育
-http://111.11.123.46:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论HD
-http://111.11.123.46:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,NewTV明星大片
-http://111.11.123.46:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://111.11.123.46:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,黑莓电竞HD
+#EXTINF:-1 ,黑莓电竞HD
 http://111.11.123.46:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,北京卫视******
+#EXTINF:-1 ,北京卫视******
 http://111.11.123.48:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,广东卫视
-http://111.11.123.48:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,精品大剧HD
-http://111.11.123.48:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影HD
-http://111.11.123.48:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://111.11.123.48:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,军事评论HD
-http://111.11.123.48:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://111.11.123.48:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.11.123.48:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,北京卫视******
+#EXTINF:-1 ,北京卫视******
 http://111.11.123.50:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.123.50:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,潮妈辣婆
-http://111.11.123.50:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV16 奥林匹克
+#EXTINF:-1 ,CCTV16 奥林匹克
 http://111.11.123.50:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
+#EXTINF:-1 ,CCTV5+ 体育赛事
 http://111.11.123.50:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://111.11.123.50:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影HD
-http://111.11.123.50:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://111.11.123.50:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://111.11.123.50:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品记录HD
+#EXTINF:-1 ,精品记录HD
 http://111.11.123.50:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://111.11.123.50:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,农业致富HD
+#EXTINF:-1 ,农业致富HD
 http://111.11.123.50:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://111.11.123.50:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://111.11.123.50:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://111.11.123.6:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://111.11.123.6:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,精品记录HD
+#EXTINF:-1 ,精品记录HD
 http://111.11.123.6:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://111.11.123.6:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.123.6:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://111.11.123.6:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富HD
+#EXTINF:-1 ,农业致富HD
 http://111.11.123.6:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,NewTV海外剧场
+#EXTINF:-1 ,NewTV海外剧场
 http://111.11.123.6:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,92
+#EXTINF:-1 ,92
 http://111.43.126.240:7777/hls/92/index.m3u8
-#EXTINF:0,93
-http://111.43.126.240:7777/hls/93/index.m3u8
-#EXTINF:0,94
+#EXTINF:-1 ,94
 http://111.43.126.240:7777/hls/94/index.m3u8
-#EXTINF:0,96
+#EXTINF:-1 ,96
 http://111.43.126.240:7777/hls/96/index.m3u8
-#EXTINF:0,97
+#EXTINF:-1 ,97
 http://111.43.126.240:7777/hls/97/index.m3u8
-#EXTINF:0,98
+#EXTINF:-1 ,98
 http://111.43.126.240:7777/hls/98/index.m3u8
-#EXTINF:0,99
-http://111.43.126.240:7777/hls/99/index.m3u8
-#EXTINF:0,CCTV7咪咕
+#EXTINF:-1 ,CCTV7咪咕
 http://111.63.117.13:6060/030000001000/G_AOYUN-1/index.m3u8
-#EXTINF:0,深圳卫视
-http://111.63.117.13:6060/030000001001/shenzhenstv/.m3u8
-#EXTINF:0,CCTV1
+#EXTINF:-1 ,CCTV1
 http://111.63.118.100:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://111.63.118.100:6060/030000001001/beijingstv/1.m3u8
-#EXTINF:0,CCTV1
-http://111.63.118.98:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:0,北京卫视
-http://111.63.118.98:6060/030000001001/beijingstv/1.m3u8
-#EXTINF:0,CCTV-1-HD
+#EXTINF:-1 ,CCTV-1-HD
 http://111.63.118.99:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:0,北京卫视
-http://111.63.118.99:6060/030000001001/beijingstv/1.m3u8
-#EXTINF:0,NewTV 爱情喜剧
-http://39.134.193.100:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视HD******
-http://39.134.193.100:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.100:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.100:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
-http://39.134.193.100:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
-http://39.134.193.100:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.100:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,NewTV 动作电影
+#EXTINF:-1 ,NewTV 动作电影
 http://39.134.193.100:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视ᴴᴰ
+#EXTINF:-1 ,广东卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,NewTV 古装剧场
+#EXTINF:-1 ,NewTV 古装剧场
 http://39.134.193.100:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,NewTV 潮妈辣婆
+#EXTINF:-1 ,NewTV 潮妈辣婆
 http://39.134.193.100:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV17ᴴᴰ
+#EXTINF:-1 ,CCTV17ᴴᴰ
 http://39.134.193.100:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,NewTV 炫舞未来
+#EXTINF:-1 ,NewTV 炫舞未来
 http://39.134.193.100:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,CCTV5+ᴴᴰ
+#EXTINF:-1 ,CCTV5+ᴴᴰ
 http://39.134.193.100:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视ᴴᴰ
+#EXTINF:-1 ,湖南卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,NewTV 精品大剧
+#EXTINF:-1 ,NewTV 精品大剧
 http://39.134.193.100:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影ᴴᴰ
+#EXTINF:-1 ,黑莓电影ᴴᴰ
 http://39.134.193.100:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视ᴴᴰ
+#EXTINF:-1 ,江苏卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,NewTV 家庭剧场
+#EXTINF:-1 ,NewTV 家庭剧场
 http://39.134.193.100:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,NewTV 精品纪录ᴴᴰ
+#EXTINF:-1 ,NewTV 精品纪录ᴴᴰ
 http://39.134.193.100:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,NewTV 惊悚悬疑
+#EXTINF:-1 ,NewTV 惊悚悬疑
 http://39.134.193.100:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,NewTV 精品体育
+#EXTINF:-1 ,NewTV 精品体育
 http://39.134.193.100:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,NewTV军旅剧场ᴴᴰ
+#EXTINF:-1 ,NewTV军旅剧场ᴴᴰ
 http://39.134.193.100:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,NewTV 军事评论ᴴᴰ
+#EXTINF:-1 ,NewTV 军事评论ᴴᴰ
 http://39.134.193.100:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,NewTV 怡伴健康
+#EXTINF:-1 ,NewTV 怡伴健康
 http://39.134.193.100:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,NewTV 明星大片
+#EXTINF:-1 ,NewTV 明星大片
 http://39.134.193.100:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,NewTV 农业致富ᴴᴰ
+#EXTINF:-1 ,NewTV 农业致富ᴴᴰ
 http://39.134.193.100:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,NewTV 金牌综艺
+#EXTINF:-1 ,NewTV 金牌综艺
 http://39.134.193.100:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,NewTV 中国功夫
+#EXTINF:-1 ,NewTV 中国功夫
 http://39.134.193.100:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视ᴴᴰ
+#EXTINF:-1 ,山东卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视ᴴᴰ
+#EXTINF:-1 ,深圳卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视ᴴᴰ
+#EXTINF:-1 ,天津卫视ᴴᴰ
 http://39.134.193.100:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,黑莓电竞ᴴᴰ
+#EXTINF:-1 ,黑莓电竞ᴴᴰ
 http://39.134.193.100:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,NewTV 热播精选
+#EXTINF:-1 ,NewTV 热播精选
 http://39.134.193.100:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视ᴴᴰ***
+#EXTINF:-1 ,浙江卫视ᴴᴰ***
 http://39.134.193.100:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.102:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.102:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.102:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.102:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.103:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.103:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.103:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.103:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.104:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.104:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.104:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.104:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.105:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.105:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.105:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.105:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.106:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.106:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.106:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.106:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.107:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.108:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.109:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.109:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.109:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.109:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.110:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.111:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.111:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.112:6610/030000001000/BTV-1/index.m3u8?
-#EXTINF:0,CCTV-1*****
+#EXTINF:-1 ,CCTV-1*****
 http://39.134.193.112:6610/030000001000/CCTV-1-HD/index.m3u8?
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.134.193.112:6610/030000001000/CCTV-3/index.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.134.193.112:6610/030000001000/CCTV-5/index.m3u8?
-#EXTINF:0,东方卫视
+#EXTINF:-1 ,东方卫视
 http://39.134.193.112:6610/030000001000/DFWS-HD/index.m3u8?
-#EXTINF:0,CCTV-7
+#EXTINF:-1 ,CCTV-7
 http://39.134.193.112:6610/030000001000/G_AOYUN-1/index.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.112:6610/030000001000/G_CCTV-17-HD/index.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.112:6610/030000001000/G_CCTV-5PLUS/index.m3u8?
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://39.134.193.112:6610/030000001000/G_HEILONGJIANG-CQ/index.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.112:6610/030000001000/G_JIANGSU-HD/index.m3u8?
-#EXTINF:0,晴彩篮球
+#EXTINF:-1 ,晴彩篮球
 http://39.134.193.112:6610/030000001000/G_MIGUJCZQ/index.m3u8?
-#EXTINF:0,晴彩竞技
+#EXTINF:-1 ,晴彩竞技
 http://39.134.193.112:6610/030000001000/G_MIGUZHTY/index.m3u8?
-#EXTINF:0,广东卫视高清ᴴᴰ
+#EXTINF:-1 ,广东卫视高清ᴴᴰ
 http://39.134.193.112:6610/030000001000/GDWS-HD/index.m3u8?
-#EXTINF:0,黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://39.134.193.112:6610/030000001000/HLJWS-HD/index.m3u8?
-#EXTINF:0,湖南卫视*
+#EXTINF:-1 ,湖南卫视*
 http://39.134.193.112:6610/030000001000/HNWS-HD/index.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.112:6610/030000001000/SZWS-HD/index.m3u8?
-#EXTINF:0,浙江卫视***
+#EXTINF:-1 ,浙江卫视***
 http://39.134.193.112:6610/030000001000/ZJWS-HD/index.m3u8?
-#EXTINF:0,爱情喜剧ᴴᴰ
+#EXTINF:-1 ,爱情喜剧ᴴᴰ
 http://39.134.193.112:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.193.112:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.112:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.112:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,NewTV 哒啵电竞
+#EXTINF:-1 ,NewTV 哒啵电竞
 http://39.134.193.112:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,NewTV 黑莓动画
+#EXTINF:-1 ,NewTV 黑莓动画
 http://39.134.193.112:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,NewTV 动作电影
+#EXTINF:-1 ,NewTV 动作电影
 http://39.134.193.112:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,NewTV 古装剧场
+#EXTINF:-1 ,NewTV 古装剧场
 http://39.134.193.112:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.112:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,NewTV 炫舞未来
+#EXTINF:-1 ,NewTV 炫舞未来
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,NewTV 全民热练
+#EXTINF:-1 ,NewTV 全民热练
 http://39.134.193.112:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,家庭剧场ᴴᴰ
+#EXTINF:-1 ,家庭剧场ᴴᴰ
 http://39.134.193.112:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,NewTV 精品纪录
+#EXTINF:-1 ,NewTV 精品纪录
 http://39.134.193.112:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,NewTV 惊悚悬疑
+#EXTINF:-1 ,NewTV 惊悚悬疑
 http://39.134.193.112:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,NewTV 军旅剧场
+#EXTINF:-1 ,NewTV 军旅剧场
 http://39.134.193.112:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.112:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,NewTV 怡伴健康
+#EXTINF:-1 ,NewTV 怡伴健康
 http://39.134.193.112:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,明星大片ᴴᴰ
+#EXTINF:-1 ,明星大片ᴴᴰ
 http://39.134.193.112:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.44:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.44:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.44:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.44:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.48:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.50:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.50:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.52:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.52:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.52:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.52:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.54:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.54:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.54:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.54:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.56:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.56:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.56:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.58:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
-http://39.134.194.58:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.194.58:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.60:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,CCTV3ᴴᴰ
+#EXTINF:-1 ,CCTV3ᴴᴰ
 http://39.134.194.60:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.60:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.194.60:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://39.134.194.60:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,CCTV16 奥林匹克
+#EXTINF:-1 ,CCTV16 奥林匹克
 http://39.134.194.60:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV5+ 体育赛事
-http://39.134.194.60:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,精品大剧HD
+#EXTINF:-1 ,精品大剧HD
 http://39.134.194.60:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影HD
+#EXTINF:-1 ,黑莓电影HD
 http://39.134.194.60:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.60:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.60:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场HD
+#EXTINF:-1 ,军旅剧场HD
 http://39.134.194.60:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://39.134.194.60:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,健康有约HD
+#EXTINF:-1 ,健康有约HD
 http://39.134.194.60:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,NewTV明星大片
+#EXTINF:-1 ,NewTV明星大片
 http://39.134.194.60:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富HD
+#EXTINF:-1 ,农业致富HD
 http://39.134.194.60:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.60:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.60:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,NewTV海外剧场
+#EXTINF:-1 ,NewTV海外剧场
 http://39.134.194.60:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视***
+#EXTINF:-1 ,浙江卫视***
 http://39.134.194.60:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,劲爆体育
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/index.m3u8?&encrypt=
-#EXTINF:0,江西卫视
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/jxwshd/57/20190820/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,辽宁卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/index.m3u8?&encrypt=
-#EXTINF:0,山东卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/index.m3u8?&encrypt=
-#EXTINF:0,西安新闻综合
-http://xatv-yt.xiancity.cn/live/1.flv
-#EXTINF:0,浙江卫视
-http://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
-#EXTINF:0,白银文化教育ᴴᴰ
-https://play.kankanlive.com/live/1720408280309109.flv
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb
-#EXTINF:0,浙江钱江
+#EXTINF:-1 ,浙江钱江
 https://zwebl02.cztv.com/live/channel021080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-00cc26403bae15d2d0ef1c4380e4664f
-#EXTINF:0,浙江经济生活
+#EXTINF:-1 ,浙江经济生活
 https://zwebl02.cztv.com/live/channel031080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-b4fe6682a137b6739ec212c93c5a8def
-#EXTINF:0,白银文化教育
+#EXTINF:-1 ,白银文化教育
 rtmp://play.kankanlive.com/live/1720408280309109
-#EXTINF:0,222
+#EXTINF:-1 ,222
 http://183.196.87.176:880/hls/222/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8?
-#EXTINF:0,黑莓电竞
-http://39.134.193.100:6610/030000001001/wmyx/1.m3u8?IASHttpSessionId=
-#EXTINF:0,1068
+#EXTINF:-1 ,1068
 http://39.152.103.17:8089/tsfile/live/1068_1.m3u8
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://111.11.121.212:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,黑莓动画HD
+#EXTINF:-1 ,黑莓动画HD
 http://111.11.123.30:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,CCTV17 农业农村
+#EXTINF:-1 ,CCTV17 农业农村
 http://111.11.123.30:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://111.11.123.4:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,NewTV精品纪录ᴴᴰ
+#EXTINF:-1 ,NewTV精品纪录ᴴᴰ
 http://111.11.123.44:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,NewTV精品体育ᴴᴰ
+#EXTINF:-1 ,NewTV精品体育ᴴᴰ
 http://111.11.123.44:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论HD
+#EXTINF:-1 ,军事评论HD
 http://111.11.123.44:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,CCTV5
+#EXTINF:-1 ,CCTV5
 http://111.63.117.13:6060/030000001001/cctv-5/1.m3u8
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.194.46:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,游戏风云ᴴᴰ
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/youxifengyunhd/3000/index.m3u8?&encrypt=
-#EXTINF:0,浙江之江纪录
+#EXTINF:-1 ,浙江之江纪录
 https://zwebl02.cztv.com/live/channel121080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-efed1fc72c5cdbd9a29cd69eaaddfee1
-#EXTINF:0,贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://111.43.126.240:7777/hls/52/index.m3u8
-#EXTINF:0,辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://111.43.126.240:7777/hls/57/index.m3u8
-#EXTINF:0,咪咕视频44
+#EXTINF:-1 ,咪咕视频44
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000010000027691/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
-#EXTINF:0,NewTV动作电影ᴴᴰ
-http://111.11.123.42:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视ᴴᴰ
-http://111.11.123.44:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,山东卫视ᴴᴰ
-http://111.11.123.44:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,CCTV-1*******
+#EXTINF:-1 ,CCTV-1*******
 http://111.14.222.117:3333/hls/1/index.m3u8
-#EXTINF:0,26A11
-http://111.14.222.117:3333/hls/11/index.m3u8
-#EXTINF:0,CCTV-13********
+#EXTINF:-1 ,CCTV-13********
 http://111.14.222.117:3333/hls/13/index.m3u8
-#EXTINF:0,26A14
-http://111.14.222.117:3333/hls/14/index.m3u8
-#EXTINF:0,26A16
-http://111.14.222.117:3333/hls/16/index.m3u8
-#EXTINF:0,26A22
-http://111.14.222.117:3333/hls/22/index.m3u8
-#EXTINF:0,26A26
-http://111.14.222.117:3333/hls/26/index.m3u8
-#EXTINF:0,26A29
-http://111.14.222.117:3333/hls/29/index.m3u8
-#EXTINF:0,26A31
-http://111.14.222.117:3333/hls/31/index.m3u8
-#EXTINF:0,26A32
-http://111.14.222.117:3333/hls/32/index.m3u8
-#EXTINF:0,26A34
+#EXTINF:-1 ,26A34
 http://111.14.222.117:3333/hls/34/index.m3u8
-#EXTINF:0,26A36
-http://111.14.222.117:3333/hls/36/index.m3u8
-#EXTINF:0,26A43
-http://111.14.222.117:3333/hls/43/index.m3u8
-#EXTINF:0,26A49
-http://111.14.222.117:3333/hls/49/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://111.14.222.117:3333/hls/5/index.m3u8
-#EXTINF:0,19A53
-http://111.14.222.117:3333/hls/53/index.m3u8
-#EXTINF:0,26A56
-http://111.14.222.117:3333/hls/56/index.m3u8
-#EXTINF:0,CCTV-6
-http://111.14.222.117:3333/hls/6/index.m3u8
-#EXTINF:0,26A63
+#EXTINF:-1 ,26A63
 http://111.14.222.117:3333/hls/63/index.m3u8
-#EXTINF:0,26A8
+#EXTINF:-1 ,26A8
 http://111.14.222.117:3333/hls/8/index.m3u8
-#EXTINF:0,深圳卫视
-http://111.63.117.13:6060/030000001001/shenzhenstv/1.m3u8
-#EXTINF:0,CCTV8ᴴᴰ
+#EXTINF:-1 ,CCTV8ᴴᴰ
 http://39.134.193.107:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
+#EXTINF:-1 ,CCTV5ᴴᴰ
 http://39.134.193.108:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV6ᴴᴰ
+#EXTINF:-1 ,CCTV6ᴴᴰ
 http://39.134.193.108:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV8ᴴᴰ
-http://39.134.193.108:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
-http://39.134.193.111:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV5ᴴᴰ
-http://39.134.194.56:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.60:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,CCTV-12
+#EXTINF:-1 ,CCTV-12
 http://111.14.222.117:3333/hls/12/index.m3u8
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://111.14.222.117:3333/hls/27/index.m3u8
-#EXTINF:0,东南卫视
+#EXTINF:-1 ,东南卫视
 http://111.14.222.117:3333/hls/25/index.m3u8
-#EXTINF:0,辽宁卫视
-http://111.14.222.117:3333/hls/37/index.m3u8
-#EXTINF:0,CCTV-15
+#EXTINF:-1 ,CCTV-15
 http://111.14.222.117:3333/hls/15/index.m3u8
-#EXTINF:0,东方卫视
-http://111.14.222.117:3333/hls/23/index.m3u8
-#EXTINF:0,19A38
+#EXTINF:-1 ,19A38
 http://111.14.222.117:3333/hls/38/index.m3u8
-#EXTINF:0,CCTV-14
-http://itms3.sdlk.vip:3333/hls/14/index.m3u8
-#EXTINF:0,东方卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,东方卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-#EXTINF:0,湖南卫视
-http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,湖南卫视
-http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-#EXTINF:0,海峡卫视
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/index.m3u8?&encrypt=
-#EXTINF:0,陕西卫视
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,辽宁卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,辽宁卫视
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=&amp;Channel_ID=&amp;ContentId=&amp;HlsSubType=&amp;HlsProfileId=&amp;encrypt=
-#EXTINF:0,CHC家庭影院*
-http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/index.m3u8?&encrypt=
-#EXTINF:0,欢笑剧场
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/hxjchd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,劲爆体育
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/jinbaotyhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,魅力足球
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,东方影视
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dianshijuhd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,上海新闻综合
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:0,上海新闻综合
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
-#EXTINF:0,19A39
-http://111.14.222.117:3333/hls/39/index.m3u8
-#EXTINF:0,7A12
-http://itms3.sdlk.vip:3333/hls/12/index.m3u8
-#EXTINF:0,东方卫视
-http://itms3.sdlk.vip:3333/hls/23/index.m3u8
-#EXTINF:0,37A52
-http://itms3.sdlk.vip:3333/hls/52/index.m3u8
-#EXTINF:0,CHC高清电影
-http://39.152.103.17:8089/tsfile/live/1098_1.m3u8
-#EXTINF:0,中国气象
-http://111.23.208.105:9908/tsfile/live/1053_1.m3u8
-#EXTINF:0,山歌台 1-7（B）
+#EXTINF:-1 ,山歌台 1-7（B）
 http://36.136.13.250:8811/tsfile/live/faacts/1069_1.m3u8
-#EXTINF:0,广东体育 1-8（B）
+#EXTINF:-1 ,广东体育 1-8（B）
 http://36.136.13.250:8811/tsfile/live/1070_1.m3u8
-#EXTINF:0,CGTNDocumentary
+#EXTINF:-1 ,CGTNDocumentary
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:0,CCTV-2
-http://111.14.222.117:3333/hls/2/index.m3u8
-#EXTINF:0,18A64
+#EXTINF:-1 ,18A64
 http://111.14.222.117:3333/hls/64/index.m3u8
-#EXTINF:0,20A34
-http://itms3.sdlk.vip:3333/hls/34/index.m3u8
-#EXTINF:0,28A61
+#EXTINF:-1 ,28A61
 http://111.40.34.235:907/hls/61/index.m3u8
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://111.40.34.235:907/hls/95/index.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://223.75.149.129:9906/tsfile/live/0005_1.m3u8
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://223.75.149.129:9906/tsfile/live/0006_1.m3u8
-#EXTINF:0,CCTV-7
-http://223.75.149.129:9906/tsfile/live/0007_1.m3u8
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://223.75.149.129:9906/tsfile/live/0008_1.m3u8
-#EXTINF:0,云南卫视
-http://39.152.103.17:8089/tsfile/live/1083_1.m3u8
-#EXTINF:0,四川卫视
-http://223.75.149.129:9906/tsfile/live/0123_1.m3u8
-#EXTINF:0,湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://223.75.149.129:9906/tsfile/live/0132_1.m3u8
-#EXTINF:0,CCTV-电视指南
-http://39.152.103.17:8089/tsfile/live/1058_1.m3u8
-#EXTINF:0,卡酷少儿
-http://39.152.103.17:8089/tsfile/live/1020_1.m3u8
-#EXTINF:0,湖北综合
+#EXTINF:-1 ,湖北综合
 http://223.75.149.129:9906/tsfile/live/1001_1.m3u8
-#EXTINF:0,金鹰卡通
+#EXTINF:-1 ,金鹰卡通
 http://223.75.149.129:9906/tsfile/live/1002_1.m3u8
-#EXTINF:0,咪咕视频2
+#EXTINF:-1 ,咪咕视频2
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000001000005969/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
-#EXTINF:0,咪视界1
+#EXTINF:-1 ,咪视界1
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000001000008176/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=m
-#EXTINF:0,咪咕视频42
+#EXTINF:-1 ,咪咕视频42
 http://221.181.100.64/gslbserv.itv.cmvideo.cn/3000000010000023434/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=m
-#EXTINF:0,哒啵电竞
-http://39.134.193.100:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,北京纪实
-http://39.134.193.100:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
-http://39.134.193.100:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,上海纪实
-http://39.134.193.100:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,睛彩篮球
-http://39.134.193.100:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
-http://39.134.193.100:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
-http://39.134.193.100:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,精品萌宠
-http://39.134.193.100:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.103:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.103:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
-http://39.134.193.103:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.103:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
-http://39.134.193.103:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.103:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.103:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.103:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.103:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.103:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.103:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.103:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.103:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.103:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.103:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.103:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.103:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.103:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.103:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.103:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.103:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.103:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
-http://39.134.193.103:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
-http://39.134.193.103:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.103:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.103:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.103:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.103:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.103:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.103:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.103:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.103:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.103:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.103:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
-http://39.134.193.103:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.103:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.103:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.103:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.103:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.104:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.104:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.104:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
-http://39.134.193.104:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.104:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.104:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.104:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.104:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
-http://39.134.193.104:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.104:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.104:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.104:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.104:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.104:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.104:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.104:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.104:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.104:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.104:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.104:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
-http://39.134.193.104:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.104:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.104:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
-http://39.134.193.104:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.104:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.104:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.104:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
-http://39.134.193.104:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
-http://39.134.193.104:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.104:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.104:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.104:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.104:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.104:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.104:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.104:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.104:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.104:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
-http://39.134.193.105:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.105:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.105:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.105:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.105:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.105:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.105:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.105:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.105:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.105:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.105:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.105:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.105:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.105:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.105:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.105:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.105:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.105:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.105:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.105:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.105:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.105:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.105:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.105:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.105:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.105:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.105:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.105:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.105:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.105:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.105:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.105:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.105:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.105:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.105:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.105:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.106:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.106:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.106:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.106:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.106:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.106:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.106:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.106:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.106:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.106:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.106:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.106:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.106:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.106:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.106:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.106:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.106:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.106:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.106:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.106:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.106:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.106:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.106:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.106:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.106:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.106:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.106:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.106:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.106:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.106:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.106:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.106:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.106:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.106:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.106:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.106:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.107:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.107:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.134.193.107:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.134.193.107:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.107:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.107:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.107:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.107:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.107:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.107:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.107:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.107:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.107:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.107:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.107:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.107:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.107:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.107:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.107:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.107:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.107:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.107:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.107:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.107:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.107:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.107:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.107:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.107:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.107:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.107:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.107:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.107:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
-http://39.134.193.107:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.107:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.107:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
-http://39.134.193.107:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.107:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.107:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
-http://39.134.193.107:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.107:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.107:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.108:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
-http://39.134.193.108:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.108:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.108:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.108:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.108:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.108:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.108:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.108:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.108:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.108:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.108:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.108:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.108:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.108:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.108:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.108:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.108:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.108:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.108:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.108:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.108:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.108:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.108:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
-http://39.134.193.108:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
-http://39.134.193.108:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
-http://39.134.193.108:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.108:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.108:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.108:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.108:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.108:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.108:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.108:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
-http://39.134.193.108:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
-http://39.134.193.108:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
-http://39.134.193.109:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
-http://39.134.193.109:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
-http://39.134.193.109:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.109:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.109:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,古装剧场
-http://39.134.193.109:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.109:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.109:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.109:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.109:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.109:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.109:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.109:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.109:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.109:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.109:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.109:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.109:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.109:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.109:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.109:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.109:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.109:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.109:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.109:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.109:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.109:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.109:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.109:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.109:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.109:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.109:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.109:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.109:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.109:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.109:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.110:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.110:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.134.193.110:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.134.193.110:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.134.193.110:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.110:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.110:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.110:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.110:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.110:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.110:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.110:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.110:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.110:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.110:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.110:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.110:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.110:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.110:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.110:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.110:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.110:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.110:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.110:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.110:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.110:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.110:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.110:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.110:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.110:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.110:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.110:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.110:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.110:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.110:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.110:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.110:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.110:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.110:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.110:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.110:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.193.111:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.111:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.134.193.111:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.193.111:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.193.111:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.193.111:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.193.111:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.193.111:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.111:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.111:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.111:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.193.111:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.193.111:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.193.111:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.111:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.111:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
-http://39.134.193.111:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.111:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.111:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.193.111:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.193.111:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.111:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.193.111:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.111:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.193.111:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.193.111:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.193.111:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.193.111:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.111:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.111:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.111:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.111:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.193.111:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.193.111:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.193.111:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.193.111:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.111:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.193.112:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.193.112:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,运动文旅
+#EXTINF:-1 ,运动文旅
 http://39.134.193.112:6610/030000001001/HD-4000k-1080P-yanxuangw/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.193.112:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.193.112:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.193.112:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.193.112:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.193.112:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.193.112:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.193.112:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.193.112:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.193.112:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.193.112:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.193.112:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.193.112:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
-http://39.134.193.112:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
-http://39.134.193.112:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
-http://39.134.193.112:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
-http://39.134.193.112:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.193.112:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
-http://39.134.194.44:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.44:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.44:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.44:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.194.44:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
-http://39.134.194.44:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.44:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
-http://39.134.194.44:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
-http://39.134.194.44:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
-http://39.134.194.44:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
-http://39.134.194.44:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
-http://39.134.194.44:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.44:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.44:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.44:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.44:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.44:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.44:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.44:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.44:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.44:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.44:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.44:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.44:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.44:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.44:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.44:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.44:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.44:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.194.44:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.44:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
-http://39.134.194.44:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.44:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
-http://39.134.194.44:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.44:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
-http://39.134.194.44:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
-http://39.134.194.44:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
-http://39.134.194.44:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
-http://39.134.194.46:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
-http://39.134.194.46:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-3
-http://39.134.194.46:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV-6
-http://39.134.194.46:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.134.194.46:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.46:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
-http://39.134.194.46:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
-http://39.134.194.46:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.46:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,北京纪实
-http://39.134.194.46:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.194.46:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.194.46:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.46:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.46:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.46:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.46:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.46:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.46:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.46:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.46:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.46:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.46:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.46:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.46:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.46:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.46:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.46:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.46:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.46:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.46:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.46:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.46:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.46:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.46:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.46:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.46:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.48:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.48:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.134.194.48:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV-6
+#EXTINF:-1 ,CCTV-6
 http://39.134.194.48:6610/030000001001/cctv-6/1.m3u8?
-#EXTINF:0,CCTV-8
+#EXTINF:-1 ,CCTV-8
 http://39.134.194.48:6610/030000001001/cctv-8/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.48:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.48:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.48:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.48:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.48:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.48:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.194.48:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.194.48:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.48:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
-http://39.134.194.48:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,运动文旅
+#EXTINF:-1 ,运动文旅
 http://39.134.194.48:6610/030000001001/HD-4000k-1080P-yanxuangw/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.48:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.48:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
-http://39.134.194.48:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.48:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.48:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.48:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.48:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.48:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
-http://39.134.194.48:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
-http://39.134.194.48:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
-http://39.134.194.48:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
-http://39.134.194.48:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.48:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.48:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.48:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.48:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
-http://39.134.194.48:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.48:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.194.48:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.48:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.48:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.48:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.48:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.48:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.50:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.50:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-3
+#EXTINF:-1 ,CCTV-3
 http://39.134.194.50:6610/030000001001/cctv-3/1.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.134.194.50:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.50:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.50:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.50:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.50:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.50:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.194.50:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.194.50:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.50:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.50:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.50:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.50:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.50:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.50:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.50:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.50:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.50:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.50:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.50:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.50:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.50:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.194.50:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.50:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.50:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.50:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.50:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.50:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.194.50:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.50:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.52:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.52:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.52:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.52:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.52:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.52:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.52:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.52:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.52:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.52:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.52:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.52:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.52:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.52:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.52:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.52:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.52:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.52:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.52:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.194.52:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.52:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.52:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.52:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.52:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.52:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.54:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.54:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.54:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.194.54:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.54:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.54:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.54:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.54:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.194.54:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.54:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.54:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.54:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.54:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.54:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.54:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.54:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.54:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.54:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.54:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.54:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.54:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.54:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.54:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.54:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.54:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.54:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.194.54:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.54:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
-http://39.134.194.54:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.54:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.54:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.54:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.54:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.194.54:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.54:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.56:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.56:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.56:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.56:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.194.56:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.56:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.56:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.56:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.56:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
+#EXTINF:-1 ,CCTV-16
 http://39.134.194.56:6610/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.56:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.56:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.56:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.56:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,CCTV-5+
+#EXTINF:-1 ,CCTV-5+
 http://39.134.194.56:6610/030000001001/hdcctv05plus/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.56:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.56:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.56:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.56:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.56:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.56:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.56:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.56:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.56:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.56:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.56:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.56:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.194.56:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.56:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.194.56:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.56:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
-http://39.134.194.56:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.56:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.56:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.194.56:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.56:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,爱情喜剧
+#EXTINF:-1 ,爱情喜剧
 http://39.134.194.58:6610/030000001001/aiqingxj/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.58:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.134.194.58:6610/030000001001/cctv-5/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.58:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,黑莓动画
+#EXTINF:-1 ,黑莓动画
 http://39.134.194.58:6610/030000001001/donghuawg/1.m3u8?
-#EXTINF:0,动作电影
+#EXTINF:-1 ,动作电影
 http://39.134.194.58:6610/030000001001/dongzuody/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.58:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.58:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.58:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.58:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.194.58:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.58:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.58:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.58:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.58:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.58:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://39.134.194.58:6610/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
+#EXTINF:-1 ,精品大剧
 http://39.134.194.58:6610/030000001001/jdaju/1.m3u8?
-#EXTINF:0,黑莓电影
+#EXTINF:-1 ,黑莓电影
 http://39.134.194.58:6610/030000001001/jdianying/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://39.134.194.58:6610/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.58:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.58:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.58:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://39.134.194.58:6610/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,精品体育
+#EXTINF:-1 ,精品体育
 http://39.134.194.58:6610/030000001001/jtiyu/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://39.134.194.58:6610/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://39.134.194.58:6610/030000001001/junshipl/1.m3u8?
-#EXTINF:0,怡伴健康
+#EXTINF:-1 ,怡伴健康
 http://39.134.194.58:6610/030000001001/ljiankangyouyue/1.m3u8?
-#EXTINF:0,精品综合
+#EXTINF:-1 ,精品综合
 http://39.134.194.58:6610/030000001001/mingxingdp/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://39.134.194.58:6610/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://39.134.194.58:6610/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.194.58:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
+#EXTINF:-1 ,山东卫视
 http://39.134.194.58:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://39.134.194.58:6610/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,天津卫视
+#EXTINF:-1 ,天津卫视
 http://39.134.194.58:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,哒啵赛事
+#EXTINF:-1 ,哒啵赛事
 http://39.134.194.58:6610/030000001001/wmyx/1.m3u8?
-#EXTINF:0,热播精选
+#EXTINF:-1 ,热播精选
 http://39.134.194.58:6610/030000001001/xiqumd/1.m3u8?
-#EXTINF:0,浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://39.134.194.58:6610/030000001001/zhejiangstv/1.m3u8?
-#EXTINF:0,北京卫视
+#EXTINF:-1 ,北京卫视
 http://39.134.194.60:6610/030000001001/beijingstv/1.m3u8?
-#EXTINF:0,哒啵电竞
+#EXTINF:-1 ,哒啵电竞
 http://39.134.194.60:6610/030000001001/dabodj/1.m3u8?
-#EXTINF:0,广东卫视
+#EXTINF:-1 ,广东卫视
 http://39.134.194.60:6610/030000001001/guangdongstv/1.m3u8?
-#EXTINF:0,古装剧场
+#EXTINF:-1 ,古装剧场
 http://39.134.194.60:6610/030000001001/guzhuangjc/1.m3u8?
-#EXTINF:0,潮妈辣婆
+#EXTINF:-1 ,潮妈辣婆
 http://39.134.194.60:6610/030000001001/HD-1500k-720P-cmlapo/1.m3u8?
-#EXTINF:0,北京纪实
+#EXTINF:-1 ,北京纪实
 http://39.134.194.60:6610/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-17
+#EXTINF:-1 ,CCTV-17
 http://39.134.194.60:6610/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,上海纪实
+#EXTINF:-1 ,上海纪实
 http://39.134.194.60:6610/030000001001/HD-4000k-1080P-shanghaijishi/1.m3u8?
-#EXTINF:0,炫舞未来
+#EXTINF:-1 ,炫舞未来
 http://39.134.194.60:6610/030000001001/HD-4000k-1080P-xwwl/1.m3u8?
-#EXTINF:0,睛彩篮球
+#EXTINF:-1 ,睛彩篮球
 http://39.134.194.60:6610/030000001001/HD-8000k-1080P-miguaoyun1/1.m3u8?
-#EXTINF:0,睛彩竞技
+#EXTINF:-1 ,睛彩竞技
 http://39.134.194.60:6610/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,睛彩青少
+#EXTINF:-1 ,睛彩青少
 http://39.134.194.60:6610/030000001001/HD-8000k-1080P-quanminrl/1.m3u8?
-#EXTINF:0,家庭剧场
+#EXTINF:-1 ,家庭剧场
 http://39.134.194.60:6610/030000001001/jiatingjc/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://39.134.194.60:6610/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,精品萌宠
+#EXTINF:-1 ,精品萌宠
 http://39.134.194.60:6610/030000001001/jingpinmc/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://39.134.194.60:6610/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
-http://39.134.194.60:6610/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,天津卫视
-http://39.134.194.60:6610/030000001001/tianjinstv/1.m3u8?
-#EXTINF:0,北京纪实
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-beijingjishi/1.m3u8?
-#EXTINF:0,CCTV-16
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8?
-#EXTINF:0,CCTV-17
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8?
-#EXTINF:0,睛彩竞技
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-8000k-1080P-miguaoyun2/1.m3u8?
-#EXTINF:0,湖南卫视
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8?
-#EXTINF:0,精品大剧
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jdaju/1.m3u8?
-#EXTINF:0,江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangsustv/1.m3u8?
-#EXTINF:0,精品纪录
+#EXTINF:-1 ,精品纪录
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinjl/1.m3u8?
-#EXTINF:0,惊悚悬疑
+#EXTINF:-1 ,惊悚悬疑
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingsongxy/1.m3u8?
-#EXTINF:0,军旅剧场
+#EXTINF:-1 ,军旅剧场
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junlvjc/1.m3u8?
-#EXTINF:0,军事评论
+#EXTINF:-1 ,军事评论
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/junshipl/1.m3u8?
-#EXTINF:0,农业致富
+#EXTINF:-1 ,农业致富
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/nongyezf/1.m3u8?
-#EXTINF:0,金牌综艺
+#EXTINF:-1 ,金牌综艺
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/saishijx/1.m3u8?
-#EXTINF:0,中国功夫
+#EXTINF:-1 ,中国功夫
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/SD-1500k-576P-gzkongfu/1.m3u8?
-#EXTINF:0,山东卫视
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8?
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8?
-#EXTINF:0,CCTV-1
-http://223.75.149.129:9906/tsfile/live/0001_1.m3u8
-#EXTINF:0,CCTV-5
+#EXTINF:-1 ,CCTV-5
 http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
-#EXTINF:0,云南卫视
+#EXTINF:-1 ,云南卫视
 http://223.75.149.129:9906/tsfile/live/0119_1.m3u8
-#EXTINF:0,河南卫视
-http://39.152.103.17:8089/tsfile/live/1080_1.m3u8
-#EXTINF:0,海南卫视
-http://111.23.208.105:9908/tsfile/live/1030_1.m3u8
-#EXTINF:0,深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://223.75.149.129:9906/tsfile/live/0126_1.m3u8
-#EXTINF:0,湖北经视
+#EXTINF:-1 ,湖北经视
 http://223.75.149.129:9906/tsfile/live/1000_1.m3u8
-#EXTINF:0,湖南公共
-http://111.23.208.105:9908/tsfile/live/0008_1.m3u8
-#EXTINF:0,CCTV16
-http://183.236.43.98:4013/udp/239.77.0.165:5146$广东电信11
-#EXTINF:0,CCTV16
-http://223.198.240.15:4000/rtp/239.253.64.251:5140$海南电信11
-#EXTINF:0,CCTV17
-http://183.236.43.98:4013/udp/239.77.1.121:5146$广东电信11
-#EXTINF:0,风云足球
-http://183.236.43.98:4013/udp/239.253.43.14:5146$广东电信11
-#EXTINF:0,怀旧剧场
-http://183.236.43.98:4013/udp/239.253.43.5:5146$广东电信11
-#EXTINF:0,央视文化精品
-http://183.236.43.98:4013/udp/239.253.43.13:5146$广东电信11
-#EXTINF:0,湖南卫视
-http://114.254.38.135:18888/rtp/239.3.1.132:8012$北京联通11
-#EXTINF:0,浙江卫视
-http://114.254.38.135:18888/rtp/239.3.1.137:8036$北京联通11
-#EXTINF:0,东方卫视
-http://114.254.38.135:18888/rtp/239.3.1.136:8032$北京联通11
-#EXTINF:0,CCTV3
-http://m.061899.xyz/mg/cctv3
-#EXTINF:0,CCTV4
-http://m.061899.xyz/mg/cctv4
-#EXTINF:0,CCTV6
-http://m.061899.xyz/mg/cctv6
-#EXTINF:0,CCTV7
-http://m.061899.xyz/mg/cctv7
-#EXTINF:0,2
-http://223.75.149.129:9906/tsfile/live/0002_1.m3u8
-#EXTINF:0,3
+#EXTINF:-1 ,3
 http://223.75.149.129:9906/tsfile/live/0003_1.m3u8
-#EXTINF:0,4
-http://223.75.149.129:9906/tsfile/live/0004_1.m3u8
-#EXTINF:0,9
-http://223.75.149.129:9906/tsfile/live/0009_1.m3u8
-#EXTINF:0,10
-http://223.75.149.129:9906/tsfile/live/0010_1.m3u8
-#EXTINF:0,11
-http://223.75.149.129:9906/tsfile/live/0011_1.m3u8
-#EXTINF:0,12
-http://223.75.149.129:9906/tsfile/live/0012_1.m3u8
-#EXTINF:0,13
-http://223.75.149.129:9906/tsfile/live/0013_1.m3u8
-#EXTINF:0,14
-http://223.75.149.129:9906/tsfile/live/0014_1.m3u8
-#EXTINF:0,15
-http://223.75.149.129:9906/tsfile/live/0015_1.m3u8
-#EXTINF:0,0
-http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
-#EXTINF:0,1
-http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
-#EXTINF:0,2
+#EXTINF:-1 ,2
 http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-#EXTINF:0,3
+#EXTINF:-1 ,3
 http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-#EXTINF:0,6
-http://39.152.103.17:8089/tsfile/live/1006_1.m3u8
-#EXTINF:0,7
+#EXTINF:-1 ,7
 http://39.152.103.17:8089/tsfile/live/1007_1.m3u8
-#EXTINF:0,8
-http://39.152.103.17:8089/tsfile/live/1008_1.m3u8
-#EXTINF:0,9
-http://39.152.103.17:8089/tsfile/live/1009_1.m3u8
-#EXTINF:0,10
-http://39.152.103.17:8089/tsfile/live/1010_1.m3u8
-#EXTINF:0,11
-http://39.152.103.17:8089/tsfile/live/1011_1.m3u8
-#EXTINF:0,12
-http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
-#EXTINF:0,13
-http://39.152.103.17:8089/tsfile/live/1013_1.m3u8
-#EXTINF:0,14
-http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
-#EXTINF:0,16
-http://39.152.103.17:8089/tsfile/live/1016_1.m3u8
-#EXTINF:0,18
-http://39.152.103.17:8089/tsfile/live/1018_1.m3u8
-#EXTINF:0,24
+#EXTINF:-1 ,24
 http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-#EXTINF:0,34
-http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
-#EXTINF:0,35
-http://39.152.103.17:8089/tsfile/live/1035_1.m3u8
-#EXTINF:0,36
-http://39.152.103.17:8089/tsfile/live/1036_1.m3u8
-#EXTINF:0,37
-http://39.152.103.17:8089/tsfile/live/1037_1.m3u8
-#EXTINF:0,38
-http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
-#EXTINF:0,39
-http://39.152.103.17:8089/tsfile/live/1039_1.m3u8
-#EXTINF:0,40
-http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
-#EXTINF:0,41
-http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
-#EXTINF:0,42
-http://39.152.103.17:8089/tsfile/live/1042_1.m3u8
-#EXTINF:0,43
-http://39.152.103.17:8089/tsfile/live/1043_1.m3u8
-#EXTINF:0,44
-http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
-#EXTINF:0,45
-http://39.152.103.17:8089/tsfile/live/1045_1.m3u8
-#EXTINF:0,46
-http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-#EXTINF:0,47
-http://39.152.103.17:8089/tsfile/live/1047_1.m3u8
-#EXTINF:0,48
-http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
-#EXTINF:0,49
-http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
-#EXTINF:0,50
-http://39.152.103.17:8089/tsfile/live/1050_1.m3u8
-#EXTINF:0,51
-http://39.152.103.17:8089/tsfile/live/1051_1.m3u8
-#EXTINF:0,52
-http://39.152.103.17:8089/tsfile/live/1052_1.m3u8
-#EXTINF:0,55
-http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
-#EXTINF:0,56
-http://39.152.103.17:8089/tsfile/live/1056_1.m3u8
-#EXTINF:0,57
-http://39.152.103.17:8089/tsfile/live/1057_1.m3u8
-#EXTINF:0,69
-http://39.152.103.17:8089/tsfile/live/1069_1.m3u8
-#EXTINF:0,73
-http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
-#EXTINF:0,74
-http://39.152.103.17:8089/tsfile/live/1074_1.m3u8
-#EXTINF:0,77
-http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
-#EXTINF:0,78
-http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
-#EXTINF:0,79
-http://39.152.103.17:8089/tsfile/live/1079_1.m3u8
-#EXTINF:0,81
-http://39.152.103.17:8089/tsfile/live/1081_1.m3u8
-#EXTINF:0,86
-http://39.152.103.17:8089/tsfile/live/1086_1.m3u8
-#EXTINF:0,87
-http://39.152.103.17:8089/tsfile/live/1087_1.m3u8
-#EXTINF:0,90
-http://39.152.103.17:8089/tsfile/live/1090_1.m3u8
-#EXTINF:0,92
-http://39.152.103.17:8089/tsfile/live/1092_1.m3u8
-#EXTINF:0,94
-http://39.152.103.17:8089/tsfile/live/1094_1.m3u8
-#EXTINF:0,95
-http://39.152.103.17:8089/tsfile/live/1095_1.m3u8
-#EXTINF:0,3
-http://39.152.103.17:8089/tsfile/live/1102_1.m3u8
-#EXTINF:0,10
-http://39.152.103.17:8089/tsfile/live/1109_1.m3u8
-#EXTINF:0,33
-http://111.23.208.105:9908/tsfile/live/1033_1.m3u8
-#EXTINF:0,41
-http://111.23.208.105:9908/tsfile/live/1041_1.m3u8
-#EXTINF:0,59
-http://111.23.208.105:9908/tsfile/live/1059_1.m3u8
-#EXTINF:0,66
-http://111.23.208.105:9908/tsfile/live/1066_1.m3u8
-#EXTINF:0,67
-http://111.23.208.105:9908/tsfile/live/1067_1.m3u8
-#EXTINF:0,69
-http://111.23.208.105:9908/tsfile/live/1069_1.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
+#EXTINF:-1 ,上海第一财经
+http://bp-livetytv.bestv.cn/ch/bestvdycj.m3u8
+#EXTINF:-1 ,上海都市
+http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
+#EXTINF:-1 ,五星体育
+http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://111.23.208.105:9908/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,湖南卫视4k
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 ,CCTV-4
+http://111.9.163.109:55555/tsfile/live/0004_1.m3u8
+#EXTINF:-1 ,广东卫视
+http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=202512131203021adcb79ae5284c06ab3f90c5c0767841&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251213120302&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20251213120302&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=43198ad86271933c9e0647d1b3670b92&sv=10004&ct=android
+#EXTINF:-1 ,海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
+#EXTINF:-1 ,CCTV-1
+http://223.75.149.129:9906/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-2
+http://39.152.103.17:8089/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-2
+http://111.9.163.109:55555/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-2
+http://223.75.149.129:9906/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-3
+http://39.152.103.17:8089/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-3
+http://111.9.163.109:55555/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-3
+http://223.75.149.129:9906/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-4
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-4
+http://39.152.103.17:8089/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-4
+http://39.152.103.17:8089/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-4
+http://111.9.163.109:55555/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-4
+http://223.75.149.129:9906/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-5
+http://39.152.103.17:8089/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV5+
+http://39.152.103.17:8089/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-5
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,CCTV-5
+http://223.75.149.129:9906/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV5+
+http://39.165.39.49:19901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-6
+http://223.75.149.129:9906/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-7
+http://39.152.103.17:8089/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-7
+http://223.75.149.129:9906/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-8
+http://39.152.103.17:8089/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-8
+http://223.75.149.129:9906/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-10
+http://223.75.149.129:9906/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-11
+http://39.152.103.17:8089/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-11
+http://223.75.149.129:9906/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-14
+http://39.152.103.17:8089/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-14
+http://223.75.149.129:9906/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-15
+http://223.75.149.129:9906/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CCTV-16
+http://39.152.103.17:8089/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CCTV-17
+http://39.152.103.17:8089/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,东南卫视
+http://39.152.103.17:8089/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,东南卫视
+http://39.165.39.49:19901/tsfile/live/1149_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,东方卫视
+http://223.75.149.129:9906/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,东方卫视
+http://39.165.39.49:19901/tsfile/live/1128_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,云南卫视
+http://223.75.149.129:9906/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,云南卫视
+http://39.152.103.17:8089/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,北京卫视
+http://223.75.149.129:9906/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,北京卫视
+http://39.165.39.49:19901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,吉林卫视
+http://223.75.149.129:9906/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,四川卫视
+http://223.75.149.129:9906/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,四川卫视
+http://39.152.103.17:8089/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,天津卫视
+http://223.75.149.129:9906/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,安徽卫视
+http://223.75.149.129:9906/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,安徽卫视
+http://39.152.103.17:8089/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,安徽卫视
+http://39.165.39.49:19901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,山东卫视
+http://223.75.149.129:9906/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,山东卫视
+http://39.165.39.49:19901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,广东卫视
+http://223.75.149.129:9906/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,广东卫视
+http://39.165.39.49:19901/tsfile/live/1131_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,广西卫视
+http://223.75.149.129:9906/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,广西卫视
+http://39.152.103.17:8089/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,江苏卫视
+http://223.75.149.129:9906/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,江苏卫视
+http://39.165.39.49:19901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,江西卫视
+http://223.75.149.129:9906/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,江西卫视
+http://39.152.103.17:8089/tsfile/live/1078_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,河北卫视
+http://39.152.103.17:8089/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,河南卫视
+http://39.165.39.49:19901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,浙江卫视
+http://223.75.149.129:9906/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,浙江卫视
+http://39.165.39.49:19901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,海南卫视
+http://39.152.103.17:8089/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,深圳卫视
+http://223.75.149.129:9906/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,深圳卫视
+http://39.165.39.49:19901/tsfile/live/1141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖北卫视
+http://223.75.149.129:9906/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖北卫视
+http://39.165.39.49:19901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南卫视
+http://111.23.208.105:9908/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖南卫视
+http://39.165.39.49:19901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,辽宁卫视
+http://39.152.103.17:8089/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,黑龙江卫视
+http://223.75.149.129:9906/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,CHC动作电影
+http://39.152.103.17:8089/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,CHC家庭影院
+http://39.152.103.17:8089/tsfile/live/1095_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,中国教育移动
+http://39.165.39.49:19901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央一套移动
+http://39.165.39.49:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央七套移动
+http://39.165.39.49:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央九套移动
+http://39.165.39.49:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央二套移动
+http://39.165.39.49:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央五套移动
+http://39.165.39.49:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央八套移动
+http://39.165.39.49:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央六套移动
+http://39.165.39.49:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十七套移动
+http://39.165.39.49:19901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十三套移动
+http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十二套移动
+http://39.165.39.49:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十五套移动
+http://39.165.39.49:19901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十四套移动
+http://39.165.39.49:19901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央十套移动
+http://39.165.39.49:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,中央四套移动
+http://39.165.39.49:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,全纪实
+http://39.165.39.49:19901/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,卡酷少儿
+http://111.23.208.105:9908/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,卡酷少儿
+http://39.152.103.17:8089/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,快乐垂钓
+http://39.152.103.17:8089/tsfile/live/1110_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,快乐垂钓
+http://39.165.39.49:19901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,文物宝库移动
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,法制频道移动
+http://39.165.39.49:19901/tsfile/live/1110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖北综合
+http://223.75.149.129:9906/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,茶频道
+http://39.152.103.17:8089/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&down=1
+#EXTINF:-1 ,金鹰卡通
+http://223.75.149.129:9906/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,金鹰卡通移动
+http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,4A39
+http://39.164.138.145:9003/hls/39/index.m3u8
+#EXTINF:-1 ,4A43
+http://39.164.138.145:9003/hls/43/index.m3u8
+#EXTINF:-1 ,4A44
+http://39.164.138.145:9003/hls/44/index.m3u8
+#EXTINF:-1 ,4A45
+http://39.164.138.145:9003/hls/45/index.m3u8
+#EXTINF:-1 ,4A48
+http://39.164.138.145:9003/hls/48/index.m3u8
+#EXTINF:-1 ,4A49
+http://39.164.138.145:9003/hls/49/index.m3u8
+#EXTINF:-1 ,4A59
+http://39.164.138.145:9003/hls/59/index.m3u8
+#EXTINF:-1 ,4A60
+http://39.164.138.145:9003/hls/60/index.m3u8
+#EXTINF:-1 ,4A65
+http://39.164.138.145:9003/hls/65/index.m3u8
+#EXTINF:-1 ,12A29
+http://218.206.193.218:8888/hls/29/index.m3u8
+#EXTINF:-1 ,12A77
+http://218.206.193.218:8888/hls/77/index.m3u8
+#EXTINF:-1 ,12A79
+http://218.206.193.218:8888/hls/79/index.m3u8
+#EXTINF:-1 ,12A81
+http://218.206.193.218:8888/hls/81/index.m3u8
+#EXTINF:-1 ,12A114
+http://218.206.193.218:8888/hls/114/index.m3u8
+#EXTINF:-1 ,14A34
+http://183.129.255.66:8480/hls/34/index.m3u8
+#EXTINF:-1 ,15A74
+http://36.129.36.44:2080/hls/74/index.m3u8
+#EXTINF:-1 ,19A2
+http://itms3.sdlk.vip:3333/hls/2/index.m3u8
+#EXTINF:-1 ,19A5
+http://itms3.sdlk.vip:3333/hls/5/index.m3u8
+#EXTINF:-1 ,19A6
+http://itms3.sdlk.vip:3333/hls/6/index.m3u8
+#EXTINF:-1 ,19A7
+http://itms3.sdlk.vip:3333/hls/7/index.m3u8
+#EXTINF:-1 ,19A8
+http://itms3.sdlk.vip:3333/hls/8/index.m3u8
+#EXTINF:-1 ,24A29
+http://zmgd.zyrnet.com:8888/hls/29/index.m3u8
+#EXTINF:-1 ,24A77
+http://zmgd.zyrnet.com:8888/hls/77/index.m3u8
+#EXTINF:-1 ,27A1
+http://218.206.221.78:90/hls/1/index.m3u8
+#EXTINF:-1 ,27A2
+http://218.206.221.78:90/hls/2/index.m3u8
+#EXTINF:-1 ,27A3
+http://218.206.221.78:90/hls/3/index.m3u8
+#EXTINF:-1 ,27A4
+http://218.206.221.78:90/hls/4/index.m3u8
+#EXTINF:-1 ,27A5
+http://218.206.221.78:90/hls/5/index.m3u8
+#EXTINF:-1 ,27A6
+http://218.206.221.78:90/hls/6/index.m3u8
+#EXTINF:-1 ,27A7
+http://218.206.221.78:90/hls/7/index.m3u8
+#EXTINF:-1 ,27A8
+http://218.206.221.78:90/hls/8/index.m3u8
+#EXTINF:-1 ,27A9
+http://218.206.221.78:90/hls/9/index.m3u8
+#EXTINF:-1 ,27A10
+http://218.206.221.78:90/hls/10/index.m3u8
+#EXTINF:-1 ,27A11
+http://218.206.221.78:90/hls/11/index.m3u8
+#EXTINF:-1 ,27A12
+http://218.206.221.78:90/hls/12/index.m3u8
+#EXTINF:-1 ,27A13
+http://218.206.221.78:90/hls/13/index.m3u8
+#EXTINF:-1 ,27A14
+http://218.206.221.78:90/hls/14/index.m3u8
+#EXTINF:-1 ,27A15
+http://218.206.221.78:90/hls/15/index.m3u8
+#EXTINF:-1 ,27A17
+http://218.206.221.78:90/hls/17/index.m3u8
+#EXTINF:-1 ,27A18
+http://218.206.221.78:90/hls/18/index.m3u8
+#EXTINF:-1 ,27A20
+http://218.206.221.78:90/hls/20/index.m3u8
+#EXTINF:-1 ,27A21
+http://218.206.221.78:90/hls/21/index.m3u8
+#EXTINF:-1 ,27A22
+http://218.206.221.78:90/hls/22/index.m3u8
+#EXTINF:-1 ,27A23
+http://218.206.221.78:90/hls/23/index.m3u8
+#EXTINF:-1 ,27A24
+http://218.206.221.78:90/hls/24/index.m3u8
+#EXTINF:-1 ,27A25
+http://218.206.221.78:90/hls/25/index.m3u8
+#EXTINF:-1 ,27A26
+http://218.206.221.78:90/hls/26/index.m3u8
+#EXTINF:-1 ,27A27
+http://218.206.221.78:90/hls/27/index.m3u8
+#EXTINF:-1 ,27A28
+http://218.206.221.78:90/hls/28/index.m3u8
+#EXTINF:-1 ,27A29
+http://218.206.221.78:90/hls/29/index.m3u8
+#EXTINF:-1 ,27A30
+http://218.206.221.78:90/hls/30/index.m3u8
+#EXTINF:-1 ,27A31
+http://218.206.221.78:90/hls/31/index.m3u8
+#EXTINF:-1 ,27A32
+http://218.206.221.78:90/hls/32/index.m3u8
+#EXTINF:-1 ,27A34
+http://218.206.221.78:90/hls/34/index.m3u8
+#EXTINF:-1 ,27A36
+http://218.206.221.78:90/hls/36/index.m3u8
+#EXTINF:-1 ,27A37
+http://218.206.221.78:90/hls/37/index.m3u8
+#EXTINF:-1 ,27A39
+http://218.206.221.78:90/hls/39/index.m3u8
+#EXTINF:-1 ,27A41
+http://218.206.221.78:90/hls/41/index.m3u8
+#EXTINF:-1 ,27A43
+http://218.206.221.78:90/hls/43/index.m3u8
+#EXTINF:-1 ,27A45
+http://218.206.221.78:90/hls/45/index.m3u8
+#EXTINF:-1 ,27A46
+http://218.206.221.78:90/hls/46/index.m3u8
+#EXTINF:-1 ,27A47
+http://218.206.221.78:90/hls/47/index.m3u8
+#EXTINF:-1 ,27A48
+http://218.206.221.78:90/hls/48/index.m3u8
+#EXTINF:-1 ,27A50
+http://218.206.221.78:90/hls/50/index.m3u8
+#EXTINF:-1 ,27A51
+http://218.206.221.78:90/hls/51/index.m3u8
+#EXTINF:-1 ,27A78
+http://218.206.221.78:90/hls/78/index.m3u8
+#EXTINF:-1 ,27A80
+http://218.206.221.78:90/hls/80/index.m3u8
+#EXTINF:-1 ,29A2
+http://111.14.222.117:3333/hls/2/index.m3u8
+#EXTINF:-1 ,29A3
+http://111.14.222.117:3333/hls/3/index.m3u8
+#EXTINF:-1 ,29A6
+http://111.14.222.117:3333/hls/6/index.m3u8
+#EXTINF:-1 ,29A7
+http://111.14.222.117:3333/hls/7/index.m3u8
+#EXTINF:-1 ,29A9
+http://111.14.222.117:3333/hls/9/index.m3u8
+#EXTINF:-1 ,29A11
+http://111.14.222.117:3333/hls/11/index.m3u8
+#EXTINF:-1 ,29A14
+http://111.14.222.117:3333/hls/14/index.m3u8
+#EXTINF:-1 ,29A16
+http://111.14.222.117:3333/hls/16/index.m3u8
+#EXTINF:-1 ,29A22
+http://111.14.222.117:3333/hls/22/index.m3u8
+#EXTINF:-1 ,29A23
+http://111.14.222.117:3333/hls/23/index.m3u8
+#EXTINF:-1 ,29A24
+http://111.14.222.117:3333/hls/24/index.m3u8
+#EXTINF:-1 ,29A26
+http://111.14.222.117:3333/hls/26/index.m3u8
+#EXTINF:-1 ,29A29
+http://111.14.222.117:3333/hls/29/index.m3u8
+#EXTINF:-1 ,29A31
+http://111.14.222.117:3333/hls/31/index.m3u8
+#EXTINF:-1 ,29A32
+http://111.14.222.117:3333/hls/32/index.m3u8
+#EXTINF:-1 ,29A33
+http://111.14.222.117:3333/hls/33/index.m3u8
+#EXTINF:-1 ,29A36
+http://111.14.222.117:3333/hls/36/index.m3u8
+#EXTINF:-1 ,29A37
+http://111.14.222.117:3333/hls/37/index.m3u8
+#EXTINF:-1 ,29A43
+http://111.14.222.117:3333/hls/43/index.m3u8
+#EXTINF:-1 ,29A49
+http://111.14.222.117:3333/hls/49/index.m3u8
+#EXTINF:-1 ,29A52
+http://111.14.222.117:3333/hls/52/index.m3u8
+#EXTINF:-1 ,29A53
+http://111.14.222.117:3333/hls/53/index.m3u8
+#EXTINF:-1 ,29A56
+http://111.14.222.117:3333/hls/56/index.m3u8
+#EXTINF:-1 ,29A68
+http://111.14.222.117:3333/hls/68/index.m3u8
+#EXTINF:-1 ,31A25
+http://125.40.199.223:8092/hls/25/index.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://39.152.103.17:8089/tsfile/live/1110_1.m3u8
+#EXTINF:-1 ,14A39
+http://111.14.222.117:3333/hls/39/index.m3u8
+#EXTINF:-1 ,3
+http://111.9.163.109:55555/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,5
+http://111.9.163.109:55555/tsfile/live/0005_1.m3u8
+#EXTINF:-1 ,127
+http://111.9.163.109:55555/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,CCTV-2
+http://111.9.163.109:55555/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,广西卫视
+http://223.75.149.129:9906/tsfile/live/0113_1.m3u8
+#EXTINF:-1 ,浙江卫视
+http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,CCTV12
+https://migu.188766.xyz/?migutoken=c03cc8e5e576ac11f380b8dcc0064b14&id=CCTV12&type=yy
+#EXTINF:-1 ,CCTV13
+https://migu.188766.xyz/?migutoken=ad511f699e8b20b6bc09cf859738295d&id=CCTV13&type=yy
+#EXTINF:-1 ,CCTV-2 财经
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 ,CCTV-9 记录
+http://60.16.0.216:5757/hls/10/index.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://60.16.0.216:5757/hls/13/index.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1 ,CCTV-15 音乐
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 ,浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,浙江卫视
+http://8.138.7.223/tv/zjws.m3u8
+#EXTINF:-1 ,浙江卫视
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 ,陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 ,四川卫视
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1 ,深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 ,云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
